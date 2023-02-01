@@ -63,7 +63,9 @@ Internships
 ==============
 
 - Tencent IEG, Game AI Research Center (2022.06 - present)
+
     Researched on offline RL, sample-efficient online RL, and offline2online RL
 
 - Pengcheng Lab (2021.10 - 2022.04)
+
     Researched on offline RL
