@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,7 @@ I am currently a third-year Ph.D. student at Tsinghua Shenzhen International Gra
 
 I am fortunate to work closely with Prof. [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en) from Peking University. I am now an intern student at Game AI Research Center, Tencent IEG (Interactive Entertainment Group), supervised by Mr. Le Wan. Before that, I was an intern student at Pengcheng Lab (PCL) supervised by Prof. [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en).
 
-My research interest 
+My research interests lie in efficient decision-making with deep Reinforcement Learning, including offline RL, sample-efficient general online model-free RL, and model-based RL. Meanwhile, I am interested in deploying RL algorithms in real-world applications, such as robotics, traffic signal control, etc.
 
 A data-driven personal website
 ======
