@@ -22,15 +22,15 @@ Publications
 
 **Conference Paper**
 
-- [Efficient Continuous Control with Double Actors and Regularized Critics](https://ojs.aaai.org/index.php/AAAI/article/view/20732/20491). **Jiafei Lyu**<sup>*</sup>， Xiaoteng Ma<sup>*</sup>, Jiangpeng Yan, Xiu Li. *AAAI Conference on Artificial Intelligence*, (AAAI), 2022. <font color=“red”>(Oral)</font>
+- [Efficient Continuous Control with Double Actors and Regularized Critics](https://ojs.aaai.org/index.php/AAAI/article/view/20732/20491). **Jiafei Lyu**^*^，Xiaoteng Ma^*^, Jiangpeng Yan, Xiu Li. *AAAI Conference on Artificial Intelligence*, (AAAI), 2022. <font color=“red”>(Oral)</font>
 - [Double Check Your State Before Trusting It: Confidence-Aware Bidirectional Offline Model-Based Imagination](https://openreview.net/forum?id=3e3IQMLDSLP). **Jiafei Lyu**, Xiu Li, Zongqing Lu. *Advances in Neural Information Processing Systems (NeurIPS)*, 2022. <font color=“red”>(Spotlight)</font>
-- [Mildly Conservative Q-learning for Offline Reinforcement Learning](https://openreview.net/forum?id=VYYf6S67pQc). **Jiafei Lyu**<sup>*</sup>， Xiaoteng Ma<sup>*</sup>, Xiu Li, Zongqing Lu. *Advances in Neural Information Processing Systems (NeurIPS)*, 2022. <font color=“red”>(Spotlight)</font>
+- [Mildly Conservative Q-learning for Offline Reinforcement Learning](https://openreview.net/forum?id=VYYf6S67pQc). **Jiafei Lyu**^*^， Xiaoteng Ma^*^, Xiu Li, Zongqing Lu. *Advances in Neural Information Processing Systems (NeurIPS)*, 2022. <font color=“red”>(Spotlight)</font>
 - [PRAG: Periodic Regularized Action Gradient for Efficient Continuous Control](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_8). Xihui Li, Zhongjian Qiao, Aicheng Gong, **Jiafei Lyu**, Chenghui Yu, Jiangpeng Yan, Xiu Li.
 
 
 **Journal Paper**
 
-- [Value Activation for Bias Alleviation: Generalized-activated Deep Double Deterministic Policy Gradients](https://arxiv.org/pdf/2112.11216). **Jiafei Lyu**<sup>*</sup>, Yu Yang<sup>*</sup>, Jiangpeng Yan, Xiu Li. *Neurocomputing*, 2023. (IF=5.7)
+- [Value Activation for Bias Alleviation: Generalized-activated Deep Double Deterministic Policy Gradients](https://arxiv.org/pdf/2112.11216). **Jiafei Lyu**^*^, Yu Yang^*^, Jiangpeng Yan, Xiu Li. *Neurocomputing*, 2023. (IF=5.7)
 
 **Workshop Paper**
 
