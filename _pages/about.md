@@ -69,3 +69,15 @@ Internships
 - **Pengcheng Lab (2021.10 - 2022.04)**
 
     Researched on offline RL
+ 
+Teaching
+==============
+
+- *Machine Learning* by Prof. Xuegong Zhang, Autumn 2020.
+- *Frontier of AI Technology and Industrial Application* by Prof. Xiu Li, Autumn 2021.
+
+
+Services
+===============
+
+- Conference Reviewer: ICML (2022), NeurIPS (2022), AAAI (2022, 2023)
