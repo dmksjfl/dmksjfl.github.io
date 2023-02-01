@@ -45,7 +45,7 @@ Collaborators
 - [Jiangpeng Yan](https://scholar.google.com/citations?user=qZXFEbMAAAAJ&hl=en): Young Genius, Huawei (Ph.D. alumni of Department of Automation, Tsinghua University)
 - [Rui Yang](https://scholar.google.com/citations?user=QHSUy3MAAAAJ&hl=en): Ph.D. Student, Department of Computer Science and Engineering (CSE), Hong Kong University of Science and Technology.
 
-Honors and Awards
+Honors
 ===============
 
 - 2018.10 Academic Excellence Award of Tsinghua University
