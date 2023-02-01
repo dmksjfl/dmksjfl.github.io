@@ -73,8 +73,8 @@ Internships
 Teaching
 ==============
 
-- *Machine Learning* by Prof. Xuegong Zhang, Autumn 2020.
-- *Frontier of AI Technology and Industrial Application* by Prof. Xiu Li, Autumn 2021.
+- *Machine Learning* by Prof. Xuegong Zhang, Autumn 2020. (Teaching Assistant)
+- *Frontier of AI Technology and Industrial Application* by Prof. Xiu Li, Autumn 2021. (Teaching Assistant)
 
 
 Services
