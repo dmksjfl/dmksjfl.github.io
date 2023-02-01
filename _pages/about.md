@@ -42,7 +42,7 @@ Collaborators
 - [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en): Professor, Tsinghua Shenzhen International Graduate School, Tsinghua University
 - [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en): BOYA Assistant Professor, School of Computer Science, Peking University
 - [Xiaoteng Ma](https://scholar.google.com/citations?user=CeDFnNMAAAAJ&hl=en): Ph.D. student, Department of Automation, Tsinghua University
-- [Jiangpeng Yan](https://scholar.google.com/citations?user=qZXFEbMAAAAJ&hl=en): Young Genius, Huawei (Ph.D. alumni of Department of Automation, Tsinghua University)
+- [Jiangpeng Yan](https://scholar.google.com/citations?user=qZXFEbMAAAAJ&hl=en): Top minds, Huawei (Ph.D. alumni of Department of Automation, Tsinghua University)
 - [Rui Yang](https://scholar.google.com/citations?user=QHSUy3MAAAAJ&hl=en): Ph.D. Student, Department of Computer Science and Engineering (CSE), Hong Kong University of Science and Technology.
 
 Honors
