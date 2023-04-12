@@ -19,6 +19,7 @@ Publications
 **Preprints**
 
 - [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
+- [Uncertainty-driven Trajectory Truncation for Model-based Offline Reinforcement Learning](https://arxiv.org/pdf/2304.04660). Junjie Zhang<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Xiaoteng Ma, Jiangpeng Yan, Jun Yang, Le Wan, Xiu Li.
 
 **Conference Papers**
 
@@ -34,7 +35,7 @@ Publications
 
 **Workshop Papers**
 
-- [State Advantage Weighting for Offline RL](https://openreview.net/forum?id=2rOD_UQfvl). **Jiafei Lyu**, Aicheng Gong, Le Wan, Zongqing Lu, Xiu Li. 3rd Offline RL Workshop: Offline RL as a ''Launchpad'' at NeurIPS, 2022.
+- [State Advantage Weighting for Offline RL](https://openreview.net/forum?id=2rOD_UQfvl). **Jiafei Lyu**, Aicheng Gong, Le Wan, Zongqing Lu, Xiu Li. ICLR 2023 tiny paper, 3rd Offline RL Workshop: Offline RL as a ''Launchpad'' at NeurIPS, 2022.
 
 Collaborators
 ======
