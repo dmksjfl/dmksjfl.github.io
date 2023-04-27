@@ -14,6 +14,8 @@ I am fortunate to work closely with Prof. [Zongqing Lu](https://scholar.google.c
 
 My research interests lie in efficient decision-making with deep Reinforcement Learning, including offline RL, sample-efficient general online model-free RL, and model-based RL. Meanwhile, I am interested in deploying RL algorithms in real-world applications, such as robotics, traffic signal control, etc.
 
+Please feel free to drop me an e-mail if you are interested in collaborating with me. lvjf20[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn
+
 Publications
 ============
 **Preprints**
