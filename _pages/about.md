@@ -22,6 +22,7 @@ Publications
 
 - [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
 - [Uncertainty-driven Trajectory Truncation for Model-based Offline Reinforcement Learning](https://arxiv.org/pdf/2304.04660). Junjie Zhang<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Xiaoteng Ma, Jiangpeng Yan, Jun Yang, Le Wan, Xiu Li.
+- Off-Policy RL Algorithms Can be Sample-Efficient for Continuous Control via Sample Multiple Reuse. **Jiafei Lyu**, Le Wan, Zongqing Lu, Xiu Li.
 
 **Conference Papers**
 
@@ -83,4 +84,4 @@ Teaching
 Services
 ===============
 
-- Conference Reviewer: ICML (2022), NeurIPS (2022), AAAI (2022, 2023)
+- Conference Reviewer: ICML (2022), NeurIPS (2022, 2023), AAAI (2022, 2023), ECAI (2023)
