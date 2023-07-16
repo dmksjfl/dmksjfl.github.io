@@ -21,7 +21,6 @@ Publications
 **Preprints**
 
 - [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
-- [Uncertainty-driven Trajectory Truncation for Model-based Offline Reinforcement Learning](https://arxiv.org/pdf/2304.04660). Junjie Zhang<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Xiaoteng Ma, Jiangpeng Yan, Jun Yang, Le Wan, Xiu Li.
 - [Off-Policy RL Algorithms Can be Sample-Efficient for Continuous Control via Sample Multiple Reuse](https://arxiv.org/pdf/2305.18443). **Jiafei Lyu**, Le Wan, Zongqing Lu, Xiu Li.
 - [Normalization Enhances Generalization in Visual Reinforcement Learning](https://arxiv.org/pdf/2306.00656). Lu Li<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Guozheng Ma, Zilin Wang, Zhenjie Yang, Xiu Li, Zhiheng Li.
 - [Zero-shot Preference Learning for Offline RL via Optimal Transport](https://arxiv.org/pdf/2306.03615). Runze Liu, Yali Du, Fengshuo Bai, **Jiafei Lyu**, Xiu Li
@@ -32,6 +31,7 @@ Publications
 - [Double Check Your State Before Trusting It: Confidence-Aware Bidirectional Offline Model-Based Imagination](https://openreview.net/forum?id=3e3IQMLDSLP). **Jiafei Lyu**, Xiu Li, Zongqing Lu. *Advances in Neural Information Processing Systems (NeurIPS)*, 2022. <font color='red'>(Spotlight)</font>
 - [Mildly Conservative Q-learning for Offline Reinforcement Learning](https://openreview.net/forum?id=VYYf6S67pQc). **Jiafei Lyu**<sup>\*</sup>, Xiaoteng Ma<sup>\*</sup>, Xiu Li, Zongqing Lu. *Advances in Neural Information Processing Systems (NeurIPS)*, 2022. <font color='red'>(Spotlight)</font>
 - [PRAG: Periodic Regularized Action Gradient for Efficient Continuous Control](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_8). Xihui Li, Zhongjian Qiao, Aicheng Gong, **Jiafei Lyu**, Chenghui Yu, Jiangpeng Yan, Xiu Li. *Pacific Rim International Conference on Artificial Intelligence* (PRICAI), 2022.
+- [Uncertainty-driven Trajectory Truncation for Data Augmentation in Offline Reinforcement Learning](https://arxiv.org/pdf/2304.04660). Junjie Zhang<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Xiaoteng Ma, Jiangpeng Yan, Jun Yang, Le Wan, Xiu Li. *European Conference on Artificial Intelligence (ECAI)* 2023.
 
 
 **Journal Papers**
