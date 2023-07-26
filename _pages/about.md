@@ -14,7 +14,7 @@ I am fortunate to work closely with Prof. [Zongqing Lu](https://scholar.google.c
 
 My research interests lie in efficient decision-making with deep Reinforcement Learning, including offline RL, sample-efficient general online model-free RL, and model-based RL. Meanwhile, I am interested in deploying RL algorithms in real-world applications, such as robotics, traffic signal control, etc.
 
-Please feel free to drop me an e-mail if you are interested in collaborating with me. lvjf20[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn
+Please feel free to drop me an e-mail if you are interested in collaborating with me. lvjf20[AT]mails.tsinghua.edu.cn
 
 Publications
 ============
@@ -30,8 +30,8 @@ Publications
 - [Efficient Continuous Control with Double Actors and Regularized Critics](https://ojs.aaai.org/index.php/AAAI/article/view/20732/20491). **Jiafei Lyu**<sup>\*</sup>，Xiaoteng Ma<sup>\*</sup>, Jiangpeng Yan, Xiu Li. *AAAI Conference on Artificial Intelligence*, (AAAI), 2022. <font color='red'>(Oral)</font>
 - [Double Check Your State Before Trusting It: Confidence-Aware Bidirectional Offline Model-Based Imagination](https://openreview.net/forum?id=3e3IQMLDSLP). **Jiafei Lyu**, Xiu Li, Zongqing Lu. *Advances in Neural Information Processing Systems (NeurIPS)*, 2022. <font color='red'>(Spotlight)</font>
 - [Mildly Conservative Q-learning for Offline Reinforcement Learning](https://openreview.net/forum?id=VYYf6S67pQc). **Jiafei Lyu**<sup>\*</sup>, Xiaoteng Ma<sup>\*</sup>, Xiu Li, Zongqing Lu. *Advances in Neural Information Processing Systems (NeurIPS)*, 2022. <font color='red'>(Spotlight)</font>
-- [PRAG: Periodic Regularized Action Gradient for Efficient Continuous Control](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_8). Xihui Li, Zhongjian Qiao, Aicheng Gong, **Jiafei Lyu**, Chenghui Yu, Jiangpeng Yan, Xiu Li. *Pacific Rim International Conference on Artificial Intelligence* (PRICAI), 2022.
-- [Uncertainty-driven Trajectory Truncation for Data Augmentation in Offline Reinforcement Learning](https://arxiv.org/pdf/2304.04660). Junjie Zhang<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Xiaoteng Ma, Jiangpeng Yan, Jun Yang, Le Wan, Xiu Li. *European Conference on Artificial Intelligence (ECAI)* 2023.
+- [PRAG: Periodic Regularized Action Gradient for Efficient Continuous Control](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_8). Xihui Li, Zhongjian Qiao, Aicheng Gong, **Jiafei Lyu**, Chenghui Yu, Jiangpeng Yan, Xiu Li. *Pacific Rim International Conference on Artificial Intelligence (PRICAI)*, 2022.
+- [Uncertainty-driven Trajectory Truncation for Data Augmentation in Offline Reinforcement Learning](https://arxiv.org/pdf/2304.04660). Junjie Zhang<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Xiaoteng Ma, Jiangpeng Yan, Jun Yang, Le Wan, Xiu Li. *European Conference on Artificial Intelligence (ECAI)*, 2023.
 
 
 **Journal Papers**
