@@ -31,7 +31,7 @@ Publications
 - [Double Check Your State Before Trusting It: Confidence-Aware Bidirectional Offline Model-Based Imagination](https://openreview.net/forum?id=3e3IQMLDSLP). **Jiafei Lyu**, Xiu Li, Zongqing Lu. *Advances in Neural Information Processing Systems (NeurIPS)*, 2022. <font color='red'>(Spotlight)</font>
 - [Mildly Conservative Q-learning for Offline Reinforcement Learning](https://openreview.net/forum?id=VYYf6S67pQc). **Jiafei Lyu**<sup>\*</sup>, Xiaoteng Ma<sup>\*</sup>, Xiu Li, Zongqing Lu. *Advances in Neural Information Processing Systems (NeurIPS)*, 2022. <font color='red'>(Spotlight)</font>
 - [PRAG: Periodic Regularized Action Gradient for Efficient Continuous Control](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_8). Xihui Li, Zhongjian Qiao, Aicheng Gong, **Jiafei Lyu**, Chenghui Yu, Jiangpeng Yan, Xiu Li. *Pacific Rim International Conference on Artificial Intelligence (PRICAI)*, 2022.
-- [Uncertainty-driven Trajectory Truncation for Data Augmentation in Offline Reinforcement Learning](https://arxiv.org/pdf/2304.04660). Junjie Zhang<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Xiaoteng Ma, Jiangpeng Yan, Jun Yang, Le Wan, Xiu Li. *European Conference on Artificial Intelligence (ECAI)*, 2023.
+- [Uncertainty-driven Trajectory Truncation for Data Augmentation in Offline Reinforcement Learning](https://arxiv.org/pdf/2304.04660). Junjie Zhang<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Xiaoteng Ma, Jiangpeng Yan, Jun Yang, Le Wan, Xiu Li. *European Conference on Artificial Intelligence (ECAI)*, 2023. <font color='red'>(Oral)</font>
 
 
 **Journal Papers**
