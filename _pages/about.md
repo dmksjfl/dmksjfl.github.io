@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year Ph.D. student at Tsinghua Shenzhen International Graduate School, Tsinghua University supervised by Prof. [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en). I am now working as a group leader of Reinforcement Learning Group of Intelligent Computing Lab (ICLAB). I receive my bachelor’s degree from the Department of Engineering Physics, Tsinghua University in 2020.
+I am currently a fourth-year Ph.D. student at Tsinghua Shenzhen International Graduate School, Tsinghua University supervised by Prof. [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en). I am now working as a group leader of Reinforcement Learning Group of Intelligent Computing Lab (ICLAB). I receive my bachelor’s degree from the Department of Engineering Physics, Tsinghua University in 2020.
 
 I am fortunate to work closely with Prof. [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en) from Peking University. I am now an intern student at Game AI Research Center, Tencent IEG (Interactive Entertainment Group), supervised by Mr. Le Wan. Before that, I was an intern student at Pengcheng Lab (PCL) supervised by Prof. [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en).
 
@@ -23,7 +23,8 @@ Publications
 - [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
 - [Off-Policy RL Algorithms Can be Sample-Efficient for Continuous Control via Sample Multiple Reuse](https://arxiv.org/pdf/2305.18443). **Jiafei Lyu**, Le Wan, Zongqing Lu, Xiu Li.
 - [Normalization Enhances Generalization in Visual Reinforcement Learning](https://arxiv.org/pdf/2306.00656). Lu Li<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Guozheng Ma, Zilin Wang, Zhenjie Yang, Xiu Li, Zhiheng Li.
-- [Zero-shot Preference Learning for Offline RL via Optimal Transport](https://arxiv.org/pdf/2306.03615). Runze Liu, Yali Du, Fengshuo Bai, **Jiafei Lyu**, Xiu Li
+- [Zero-shot Preference Learning for Offline RL via Optimal Transport](https://arxiv.org/pdf/2306.03615). Runze Liu, Yali Du, Fengshuo Bai, **Jiafei Lyu**, Xiu Li.
+- [The Primacy Bias in Model-based RL](https://arxiv.org/pdf/2310.15017). Zhongjian Qiao, **Jiafei Lyu**, Xiu Li.
 
 **Conference Papers**
 
