@@ -22,7 +22,6 @@ Publications
 
 - [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
 - [Off-Policy RL Algorithms Can be Sample-Efficient for Continuous Control via Sample Multiple Reuse](https://arxiv.org/pdf/2305.18443). **Jiafei Lyu**, Le Wan, Zongqing Lu, Xiu Li.
-- [Normalization Enhances Generalization in Visual Reinforcement Learning](https://arxiv.org/pdf/2306.00656). Lu Li<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Guozheng Ma, Zilin Wang, Zhenjie Yang, Xiu Li, Zhiheng Li.
 - [The Primacy Bias in Model-based RL](https://arxiv.org/pdf/2310.15017). Zhongjian Qiao, **Jiafei Lyu**, Xiu Li.
 
 **Conference Papers**
@@ -42,6 +41,7 @@ Publications
 
 - [State Advantage Weighting for Offline RL](https://openreview.net/forum?id=2rOD_UQfvl). **Jiafei Lyu**, Aicheng Gong, Le Wan, Zongqing Lu, Xiu Li. ICLR 2023 tiny paper, 3rd Offline RL Workshop: Offline RL as a ''Launchpad'' at NeurIPS, 2022.
 - [Zero-shot Preference Learning for Offline RL via Optimal Transport](https://arxiv.org/pdf/2306.03615). Runze Liu, Yali Du, Fengshuo Bai, **Jiafei Lyu**, Xiu Li. Optimal Transport and Machine Learning Workshop at NeurIPS, 2023.
+- [Normalization Enhances Generalization in Visual Reinforcement Learning](https://arxiv.org/pdf/2306.00656). Lu Li<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Guozheng Ma, Zilin Wang, Zhenjie Yang, Xiu Li, Zhiheng Li. Generalization in Planning Workshop at NeurIPS, 2023.
 
 Collaborators
 ======
