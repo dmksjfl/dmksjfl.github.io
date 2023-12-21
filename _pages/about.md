@@ -62,6 +62,7 @@ Honors
 - 2021.10 Outstanding Scholarship of Tsinghua University
 - 2022.10 Outstanding Scholarship of Tsinghua University
 - 2023.07 Recognition Award of 2022 Tencent Rhino-Bird Research Elite Program
+- 2023.10 Outstanding Scholarship of Tsinghua University
 
 Educations
 ==============
