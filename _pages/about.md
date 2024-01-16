@@ -34,6 +34,7 @@ Publications
 - [Uncertainty-driven Trajectory Truncation for Data Augmentation in Offline Reinforcement Learning](https://arxiv.org/pdf/2304.04660). Junjie Zhang<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Xiaoteng Ma, Jiangpeng Yan, Jun Yang, Le Wan, Xiu Li. *European Conference on Artificial Intelligence (ECAI)*, 2023. <font color='red'>(Oral)</font>
 - [Normalization Enhances Generalization in Visual Reinforcement Learning](https://arxiv.org/pdf/2306.00656). Lu Li<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Guozheng Ma, Zilin Wang, Zhenjie Yang, Xiu Li, Zhiheng Li. *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, 2024. <font color='red'>(Oral). <font color='black'> Generalization in Planning Workshop at NeurIPS, 2023.
 - Towards Understanding How to Reduce Generalization Gap in Visual Reinforcement Learning. **Jiafei Lyu**, Le Wan, Xiu Li and Zongqing Lu. *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, 2024 (Extended Abstract).
+- SEABO: A Simple Search-Based Method for Offline Imitation Learning. **Jiafei Lyu**, Xiaoteng Ma, Le Wan, Runze Liu, Xiu Li, Zongqing Lu. *International Conference on Learning Representations (ICLR)*, 2024.
 
 
 **Journal Papers**
