@@ -25,6 +25,7 @@ Publications
 - [The Primacy Bias in Model-based RL](https://arxiv.org/pdf/2310.15017). Zhongjian Qiao, **Jiafei Lyu**, Xiu Li.
 - [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](https://arxiv.org/pdf/2311.13231). Kai Yang, Jian Tao, **Jiafei Lyu**, Chunjiang Ge, Jiaxin Chen, Qimai Li, Weihan Shen, Xiaolong Zhu, Xiu Li.
 - [Exploration and Anti-Exploration with Distributional Random Network Distillation](https://arxiv.org/pdf/2401.09750.pdf). Kai Yang, Jian Tao, **Jiafei Lyu**, Xiu Li.
+- [Understanding What Affects Generalization Gap in Visual Reinforcement Learning: Theory and Empirical Evidence](https://arxiv.org/pdf/2402.02701). **Jiafei Lyu**, Le Wan, Xiu Li and Zongqing Lu.
 
 **Conference Papers**
 
