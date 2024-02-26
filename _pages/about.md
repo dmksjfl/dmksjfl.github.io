@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a fourth-year Ph.D. student at Tsinghua Shenzhen International Graduate School, Tsinghua University supervised by Prof. [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en). I am now working as a group leader of Reinforcement Learning Group of Intelligent Computing Lab (ICLAB). I receive my bachelor’s degree from the Department of Engineering Physics, Tsinghua University in 2020.
 
-I am fortunate to work closely with Prof. [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en) from Peking University. I am now an intern student at Game AI Research Center, Tencent IEG (Interactive Entertainment Group), supervised by Mr. Le Wan. Before that, I was an intern student at Pengcheng Lab (PCL) supervised by Prof. [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en).
+I am fortunate to work closely with Prof. [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en) from Peking University. I am now an intern student at Game AI Research Center, Tencent IEG (Interactive Entertainment Group), supervised by Mr. Le Wan and Mr. Jingwen Yang. Before that, I was an intern student at Pengcheng Lab (PCL) supervised by Prof. [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en).
 
 My research interests lie in efficient decision-making with deep Reinforcement Learning, including offline RL, sample-efficient general online model-free RL, and model-based RL. Meanwhile, I am interested in deploying RL algorithms in real-world applications, such as robotics, traffic signal control, etc.
 
@@ -21,7 +21,6 @@ Publications
 **Preprints**
 
 - [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
-- [Off-Policy RL Algorithms Can be Sample-Efficient for Continuous Control via Sample Multiple Reuse](https://arxiv.org/pdf/2305.18443). **Jiafei Lyu**, Le Wan, Zongqing Lu, Xiu Li.
 - [The Primacy Bias in Model-based RL](https://arxiv.org/pdf/2310.15017). Zhongjian Qiao, **Jiafei Lyu**, Xiu Li.
 - [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](https://arxiv.org/pdf/2311.13231). Kai Yang, Jian Tao, **Jiafei Lyu**, Chunjiang Ge, Jiaxin Chen, Qimai Li, Weihan Shen, Xiaolong Zhu, Xiu Li.
 - [Exploration and Anti-Exploration with Distributional Random Network Distillation](https://arxiv.org/pdf/2401.09750.pdf). Kai Yang, Jian Tao, **Jiafei Lyu**, Xiu Li.
@@ -42,6 +41,7 @@ Publications
 **Journal Papers**
 
 - [Value Activation for Bias Alleviation: Generalized-activated Deep Double Deterministic Policy Gradients](https://arxiv.org/pdf/2112.11216). **Jiafei Lyu**<sup>\*</sup>, Yu Yang<sup>\*</sup>, Jiangpeng Yan, Xiu Li. *Neurocomputing*, 2023. (IF=5.7)
+- [Off-Policy RL Algorithms Can be Sample-Efficient for Continuous Control via Sample Multiple Reuse](https://arxiv.org/pdf/2305.18443). **Jiafei Lyu**, Le Wan, Zongqing Lu, Xiu Li. *Information Sciences*, 2024. (IF=8.1)
 
 **Workshop Papers**
 
@@ -77,7 +77,11 @@ Educations
 Internships
 ==============
 
-- **Tencent IEG, Game AI Research Center (2022.06 - present)**
+- **Tencent IEG, Game AI Research Center (2023.10 - present)**
+
+    Research on offline RL, transfer RL
+
+- **Tencent IEG, Game AI Research Center (2022.06 - 2023.10)**
 
     Researched on offline RL, sample-efficient online RL, and offline2online RL
 
