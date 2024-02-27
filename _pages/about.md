@@ -22,7 +22,6 @@ Publications
 
 - [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
 - [The Primacy Bias in Model-based RL](https://arxiv.org/pdf/2310.15017). Zhongjian Qiao, **Jiafei Lyu**, Xiu Li.
-- [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](https://arxiv.org/pdf/2311.13231). Kai Yang, Jian Tao, **Jiafei Lyu**, Chunjiang Ge, Jiaxin Chen, Qimai Li, Weihan Shen, Xiaolong Zhu, Xiu Li.
 - [Exploration and Anti-Exploration with Distributional Random Network Distillation](https://arxiv.org/pdf/2401.09750.pdf). Kai Yang, Jian Tao, **Jiafei Lyu**, Xiu Li.
 - [Understanding What Affects Generalization Gap in Visual Reinforcement Learning: Theory and Empirical Evidence](https://arxiv.org/pdf/2402.02701). **Jiafei Lyu**, Le Wan, Xiu Li and Zongqing Lu.
 
@@ -36,6 +35,7 @@ Publications
 - [Normalization Enhances Generalization in Visual Reinforcement Learning](https://arxiv.org/pdf/2306.00656). Lu Li<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Guozheng Ma, Zilin Wang, Zhenjie Yang, Xiu Li, Zhiheng Li. *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, 2024. <font color='red'>(Oral). <font color='black'> Generalization in Planning Workshop at NeurIPS, 2023.
 - Towards Understanding How to Reduce Generalization Gap in Visual Reinforcement Learning. **Jiafei Lyu**, Le Wan, Xiu Li and Zongqing Lu. *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, 2024 (Extended Abstract).
 - [SEABO: A Simple Search-Based Method for Offline Imitation Learning](https://openreview.net/forum?id=MNyOI3C7YB). **Jiafei Lyu**, Xiaoteng Ma, Le Wan, Runze Liu, Xiu Li, Zongqing Lu. *International Conference on Learning Representations (ICLR)*, 2024.
+- [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](https://arxiv.org/pdf/2311.13231). Kai Yang, Jian Tao, **Jiafei Lyu**, Chunjiang Ge, Jiaxin Chen, Qimai Li, Weihan Shen, Xiaolong Zhu, Xiu Li. *IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2024
 
 
 **Journal Papers**
