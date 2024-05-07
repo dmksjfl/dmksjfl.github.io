@@ -101,7 +101,7 @@ Teaching
 Services
 ===============
 
-- Conference Reviewer: ICML (2022, 2023, 2024), NeurIPS (2022, 2023), AAAI (2022, 2023, 2024), ECAI (2023), ICLR (2024), RLC (2024)
+- Conference Reviewer: ICML (2022, 2023, 2024), NeurIPS (2022, 2023, 2024), AAAI (2022, 2023, 2024), ECAI (2023), ICLR (2024), RLC (2024)
 - Journal Reviewer: TMLR
 
 
