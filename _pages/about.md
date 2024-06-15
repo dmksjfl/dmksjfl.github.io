@@ -37,7 +37,7 @@ Publications
 - [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](https://arxiv.org/pdf/2311.13231). Kai Yang, Jian Tao, **Jiafei Lyu**, Chunjiang Ge, Jiaxin Chen, Qimai Li, Weihan Shen, Xiaolong Zhu, Xiu Li. *IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2024
 - [Exploration and Anti-Exploration with Distributional Random Network Distillation](https://arxiv.org/pdf/2401.09750.pdf). Kai Yang, Jian Tao, **Jiafei Lyu**, Xiu Li. *International Conference on Machine Learning (ICML)*, 2024.
 - [Cross-Domain Policy Adaptation by Capturing Representation Mismatch](https://arxiv.org/pdf/2405.15369). **Jiafei Lyu**, Chenjia Bai, Jing-Wen Yang, Xiu Li, Zongqing Lu. *International Conference on Machine Learning (ICML)*, 2024.
-- PEARL: Zero-shot Cross-task Preference Alignment and Robust Reward Learning for Robotic Manipulation. Runze Liu, Yali Du, Fengshuo Bai, **Jiafei Lyu**, Xiu Li. *International Conference on Machine Learning (ICML)*, 2024.
+- [PEARL: Zero-shot Cross-task Preference Alignment and Robust Reward Learning for Robotic Manipulation](https://openreview.net/forum?id=0urN0PnNDj). Runze Liu, Yali Du, Fengshuo Bai, **Jiafei Lyu**, Xiu Li. *International Conference on Machine Learning (ICML)*, 2024.
 
 
 **Journal Papers**
@@ -101,8 +101,8 @@ Teaching
 Services
 ===============
 
-- Conference Reviewer: ICML (2022, 2023, 2024), NeurIPS (2022, 2023, 2024), AAAI (2022, 2023, 2024), ECAI (2023), ICLR (2024), RLC (2024)
-- Journal Reviewer: TMLR
+- Conference Reviewer: ICML (2022, 2023, 2024), NeurIPS (2022, 2023, 2024), AAAI (2022, 2023, 2024, 2025), ECAI (2023), ICLR (2024), RLC (2024)
+- Journal Reviewer: TMLR, TAI, CAAI
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=H0wdq5Yt_5DevaMQDScKGgo6jqadE8y4Cjc-Wts5J_Q&cl=ffffff&w=a"></script>
