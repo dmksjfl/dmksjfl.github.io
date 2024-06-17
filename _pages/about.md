@@ -23,6 +23,7 @@ Publications
 - [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
 - [The Primacy Bias in Model-based RL](https://arxiv.org/pdf/2310.15017). Zhongjian Qiao, **Jiafei Lyu**, Xiu Li.
 - [Understanding What Affects Generalization Gap in Visual Reinforcement Learning: Theory and Empirical Evidence](https://arxiv.org/pdf/2402.02701). **Jiafei Lyu**, Le Wan, Xiu Li and Zongqing Lu.
+- [World Models with Hints of Large Language Models for Goal Achieving](https://arxiv.org/pdf/2406.07381). Zeyuan Liu, Ziyu Huan, Xiyao Wang, **Jiafei Lyu**, Jian Tao, Xiu Li, Furong Huang, Huazhe Xu.
 
 **Conference Papers**
 
@@ -42,7 +43,7 @@ Publications
 
 **Journal Papers**
 
-- [Value Activation for Bias Alleviation: Generalized-activated Deep Double Deterministic Policy Gradients](https://arxiv.org/pdf/2112.11216). **Jiafei Lyu**<sup>\*</sup>, Yu Yang<sup>\*</sup>, Jiangpeng Yan, Xiu Li. *Neurocomputing*, 2023. (IF=5.7)
+- [Value Activation for Bias Alleviation: Generalized-activated Deep Double Deterministic Policy Gradients](https://arxiv.org/pdf/2112.11216). **Jiafei Lyu**<sup>\*</sup>, Yu Yang<sup>\*</sup>, Jiangpeng Yan, Xiu Li. *Neurocomputing*, 2023. (IF=6.1)
 - [Off-Policy RL Algorithms Can be Sample-Efficient for Continuous Control via Sample Multiple Reuse](https://arxiv.org/pdf/2305.18443). **Jiafei Lyu**, Le Wan, Zongqing Lu, Xiu Li. *Information Sciences*, 2024. (IF=8.1)
 
 **Workshop Papers**
