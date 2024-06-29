@@ -45,6 +45,7 @@ Publications
 
 - [Value Activation for Bias Alleviation: Generalized-activated Deep Double Deterministic Policy Gradients](https://arxiv.org/pdf/2112.11216). **Jiafei Lyu**<sup>\*</sup>, Yu Yang<sup>\*</sup>, Jiangpeng Yan, Xiu Li. *Neurocomputing*, 2023. (IF=6.1)
 - [Off-Policy RL Algorithms Can be Sample-Efficient for Continuous Control via Sample Multiple Reuse](https://arxiv.org/pdf/2305.18443). **Jiafei Lyu**, Le Wan, Zongqing Lu, Xiu Li. *Information Sciences*, 2024. (IF=8.1)
+- A Two-stage Reinforcement Learning-based Approach for Multi-entity Task Allocation. Aicheng Gong, Kai Yang, **Jiafei Lyu**, Xiu Li. *Engineering Applications of Artificial Intelligence*, 2024 (IF=7.5)
 
 **Workshop Papers**
 
