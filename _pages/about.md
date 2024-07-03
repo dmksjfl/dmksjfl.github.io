@@ -20,37 +20,39 @@ Publications
 ============
 **Preprints**
 
-- [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
-- [The Primacy Bias in Model-based RL](https://arxiv.org/pdf/2310.15017). Zhongjian Qiao, **Jiafei Lyu**, Xiu Li.
-- [Understanding What Affects Generalization Gap in Visual Reinforcement Learning: Theory and Empirical Evidence](https://arxiv.org/pdf/2402.02701). **Jiafei Lyu**, Le Wan, Xiu Li and Zongqing Lu.
 - [World Models with Hints of Large Language Models for Goal Achieving](https://arxiv.org/pdf/2406.07381). Zeyuan Liu, Ziyu Huan, Xiyao Wang, **Jiafei Lyu**, Jian Tao, Xiu Li, Furong Huang, Huazhe Xu.
+- [Understanding What Affects Generalization Gap in Visual Reinforcement Learning: Theory and Empirical Evidence](https://arxiv.org/pdf/2402.02701). **Jiafei Lyu**, Le Wan, Xiu Li and Zongqing Lu.
+- [The Primacy Bias in Model-based RL](https://arxiv.org/pdf/2310.15017). Zhongjian Qiao, **Jiafei Lyu**, Xiu Li.
+- [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
+
 
 **Conference Papers**
 
-- [Efficient Continuous Control with Double Actors and Regularized Critics](https://ojs.aaai.org/index.php/AAAI/article/view/20732/20491). **Jiafei Lyu**<sup>\*</sup>，Xiaoteng Ma<sup>\*</sup>, Jiangpeng Yan, Xiu Li. *AAAI Conference on Artificial Intelligence*, (AAAI), 2022. <font color='red'>(Oral)</font>
-- [Double Check Your State Before Trusting It: Confidence-Aware Bidirectional Offline Model-Based Imagination](https://openreview.net/forum?id=3e3IQMLDSLP). **Jiafei Lyu**, Xiu Li, Zongqing Lu. *Advances in Neural Information Processing Systems (NeurIPS)*, 2022. <font color='red'>(Spotlight)</font>
-- [Mildly Conservative Q-learning for Offline Reinforcement Learning](https://openreview.net/forum?id=VYYf6S67pQc). **Jiafei Lyu**<sup>\*</sup>, Xiaoteng Ma<sup>\*</sup>, Xiu Li, Zongqing Lu. *Advances in Neural Information Processing Systems (NeurIPS)*, 2022. <font color='red'>(Spotlight)</font>
-- [PRAG: Periodic Regularized Action Gradient for Efficient Continuous Control](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_8). Xihui Li, Zhongjian Qiao, Aicheng Gong, **Jiafei Lyu**, Chenghui Yu, Jiangpeng Yan, Xiu Li. *Pacific Rim International Conference on Artificial Intelligence (PRICAI)*, 2022.
-- [Uncertainty-driven Trajectory Truncation for Data Augmentation in Offline Reinforcement Learning](https://arxiv.org/pdf/2304.04660). Junjie Zhang<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Xiaoteng Ma, Jiangpeng Yan, Jun Yang, Le Wan, Xiu Li. *European Conference on Artificial Intelligence (ECAI)*, 2023. <font color='red'>(Oral)</font>
-- [Normalization Enhances Generalization in Visual Reinforcement Learning](https://arxiv.org/pdf/2306.00656). Lu Li<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Guozheng Ma, Zilin Wang, Zhenjie Yang, Xiu Li, Zhiheng Li. *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, 2024. <font color='red'>(Oral). <font color='black'> Generalization in Planning Workshop at NeurIPS, 2023.
-- [Towards Understanding How to Reduce Generalization Gap in Visual Reinforcement Learning](https://dl.acm.org/doi/abs/10.5555/3635637.3663163). **Jiafei Lyu**, Le Wan, Xiu Li and Zongqing Lu. *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, 2024 (Extended Abstract).
-- [SEABO: A Simple Search-Based Method for Offline Imitation Learning](https://openreview.net/forum?id=MNyOI3C7YB). **Jiafei Lyu**, Xiaoteng Ma, Le Wan, Runze Liu, Xiu Li, Zongqing Lu. *International Conference on Learning Representations (ICLR)*, 2024.
-- [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](https://arxiv.org/pdf/2311.13231). Kai Yang, Jian Tao, **Jiafei Lyu**, Chunjiang Ge, Jiaxin Chen, Qimai Li, Weihan Shen, Xiaolong Zhu, Xiu Li. *IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2024
-- [Exploration and Anti-Exploration with Distributional Random Network Distillation](https://arxiv.org/pdf/2401.09750.pdf). Kai Yang, Jian Tao, **Jiafei Lyu**, Xiu Li. *International Conference on Machine Learning (ICML)*, 2024.
 - [Cross-Domain Policy Adaptation by Capturing Representation Mismatch](https://arxiv.org/pdf/2405.15369). **Jiafei Lyu**, Chenjia Bai, Jing-Wen Yang, Xiu Li, Zongqing Lu. *International Conference on Machine Learning (ICML)*, 2024.
+- [Exploration and Anti-Exploration with Distributional Random Network Distillation](https://arxiv.org/pdf/2401.09750.pdf). Kai Yang, Jian Tao, **Jiafei Lyu**, Xiu Li. *International Conference on Machine Learning (ICML)*, 2024.
 - [PEARL: Zero-shot Cross-task Preference Alignment and Robust Reward Learning for Robotic Manipulation](https://openreview.net/forum?id=0urN0PnNDj). Runze Liu, Yali Du, Fengshuo Bai, **Jiafei Lyu**, Xiu Li. *International Conference on Machine Learning (ICML)*, 2024.
+- [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](https://arxiv.org/pdf/2311.13231). Kai Yang, Jian Tao, **Jiafei Lyu**, Chunjiang Ge, Jiaxin Chen, Qimai Li, Weihan Shen, Xiaolong Zhu, Xiu Li. *IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2024
+- [SEABO: A Simple Search-Based Method for Offline Imitation Learning](https://openreview.net/forum?id=MNyOI3C7YB). **Jiafei Lyu**, Xiaoteng Ma, Le Wan, Runze Liu, Xiu Li, Zongqing Lu. *International Conference on Learning Representations (ICLR)*, 2024.
+- [Towards Understanding How to Reduce Generalization Gap in Visual Reinforcement Learning](https://dl.acm.org/doi/abs/10.5555/3635637.3663163). **Jiafei Lyu**, Le Wan, Xiu Li and Zongqing Lu. *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, 2024 (Extended Abstract).
+- [Normalization Enhances Generalization in Visual Reinforcement Learning](https://arxiv.org/pdf/2306.00656). Lu Li<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Guozheng Ma, Zilin Wang, Zhenjie Yang, Xiu Li, Zhiheng Li. *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, 2024. <font color='red'>(Oral). <font color='black'> Generalization in Planning Workshop at NeurIPS, 2023.
+- [Uncertainty-driven Trajectory Truncation for Data Augmentation in Offline Reinforcement Learning](https://arxiv.org/pdf/2304.04660). Junjie Zhang<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Xiaoteng Ma, Jiangpeng Yan, Jun Yang, Le Wan, Xiu Li. *European Conference on Artificial Intelligence (ECAI)*, 2023. <font color='red'>(Oral)</font>
+- [PRAG: Periodic Regularized Action Gradient for Efficient Continuous Control](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_8). Xihui Li, Zhongjian Qiao, Aicheng Gong, **Jiafei Lyu**, Chenghui Yu, Jiangpeng Yan, Xiu Li. *Pacific Rim International Conference on Artificial Intelligence (PRICAI)*, 2022.
+- [Mildly Conservative Q-learning for Offline Reinforcement Learning](https://openreview.net/forum?id=VYYf6S67pQc). **Jiafei Lyu**<sup>\*</sup>, Xiaoteng Ma<sup>\*</sup>, Xiu Li, Zongqing Lu. *Advances in Neural Information Processing Systems (NeurIPS)*, 2022. <font color='red'>(Spotlight)</font>
+- [Double Check Your State Before Trusting It: Confidence-Aware Bidirectional Offline Model-Based Imagination](https://openreview.net/forum?id=3e3IQMLDSLP). **Jiafei Lyu**, Xiu Li, Zongqing Lu. *Advances in Neural Information Processing Systems (NeurIPS)*, 2022. <font color='red'>(Spotlight)</font>
+- [Efficient Continuous Control with Double Actors and Regularized Critics](https://ojs.aaai.org/index.php/AAAI/article/view/20732/20491). **Jiafei Lyu**<sup>\*</sup>，Xiaoteng Ma<sup>\*</sup>, Jiangpeng Yan, Xiu Li. *AAAI Conference on Artificial Intelligence*, (AAAI), 2022. <font color='red'>(Oral)</font>
 
 
 **Journal Papers**
 
-- [Value Activation for Bias Alleviation: Generalized-activated Deep Double Deterministic Policy Gradients](https://arxiv.org/pdf/2112.11216). **Jiafei Lyu**<sup>\*</sup>, Yu Yang<sup>\*</sup>, Jiangpeng Yan, Xiu Li. *Neurocomputing*, 2023. (IF=6.1)
-- [Off-Policy RL Algorithms Can be Sample-Efficient for Continuous Control via Sample Multiple Reuse](https://arxiv.org/pdf/2305.18443). **Jiafei Lyu**, Le Wan, Zongqing Lu, Xiu Li. *Information Sciences*, 2024. (IF=8.1)
 - [A Two-stage Reinforcement Learning-based Approach for Multi-entity Task Allocation](https://arxiv.org/pdf/2407.00496). Aicheng Gong, Kai Yang, **Jiafei Lyu**, Xiu Li. *Engineering Applications of Artificial Intelligence*, 2024 (IF=7.5)
+- [Off-Policy RL Algorithms Can be Sample-Efficient for Continuous Control via Sample Multiple Reuse](https://arxiv.org/pdf/2305.18443). **Jiafei Lyu**, Le Wan, Zongqing Lu, Xiu Li. *Information Sciences*, 2024. (IF=8.1)
+- [Value Activation for Bias Alleviation: Generalized-activated Deep Double Deterministic Policy Gradients](https://arxiv.org/pdf/2112.11216). **Jiafei Lyu**<sup>\*</sup>, Yu Yang<sup>\*</sup>, Jiangpeng Yan, Xiu Li. *Neurocomputing*, 2023. (IF=6.1)
+
 
 **Workshop Papers**
 
-- [State Advantage Weighting for Offline RL](https://openreview.net/forum?id=2rOD_UQfvl). **Jiafei Lyu**, Aicheng Gong, Le Wan, Zongqing Lu, Xiu Li. ICLR 2023 tiny paper, 3rd Offline RL Workshop: Offline RL as a ''Launchpad'' at NeurIPS, 2022.
 - [Zero-shot Preference Learning for Offline RL via Optimal Transport](https://arxiv.org/pdf/2306.03615). Runze Liu, Yali Du, Fengshuo Bai, **Jiafei Lyu**, Xiu Li. Optimal Transport and Machine Learning Workshop at NeurIPS, 2023.
+- [State Advantage Weighting for Offline RL](https://openreview.net/forum?id=2rOD_UQfvl). **Jiafei Lyu**, Aicheng Gong, Le Wan, Zongqing Lu, Xiu Li. ICLR 2023 tiny paper, 3rd Offline RL Workshop: Offline RL as a ''Launchpad'' at NeurIPS, 2022.
 
 
 Collaborators
