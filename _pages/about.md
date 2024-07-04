@@ -22,12 +22,12 @@ Publications
 
 - [World Models with Hints of Large Language Models for Goal Achieving](https://arxiv.org/pdf/2406.07381). Zeyuan Liu, Ziyu Huan, Xiyao Wang, **Jiafei Lyu**, Jian Tao, Xiu Li, Furong Huang, Huazhe Xu.
 - [Understanding What Affects Generalization Gap in Visual Reinforcement Learning: Theory and Empirical Evidence](https://arxiv.org/pdf/2402.02701). **Jiafei Lyu**, Le Wan, Xiu Li and Zongqing Lu.
-- [The Primacy Bias in Model-based RL](https://arxiv.org/pdf/2310.15017). Zhongjian Qiao, **Jiafei Lyu**, Xiu Li.
 - [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
 
 
 **Conference Papers**
 
+- [Mind the Model, Not the Agent: The Primacy Bias in Model-based RL](https://arxiv.org/pdf/2310.15017). Zhongjian Qiao, **Jiafei Lyu**, Xiu Li. *European Conference on Artificial Intelligence (ECAI)*, 2024.
 - [Cross-Domain Policy Adaptation by Capturing Representation Mismatch](https://arxiv.org/pdf/2405.15369). **Jiafei Lyu**, Chenjia Bai, Jing-Wen Yang, Xiu Li, Zongqing Lu. *International Conference on Machine Learning (ICML)*, 2024.
 - [Exploration and Anti-Exploration with Distributional Random Network Distillation](https://arxiv.org/pdf/2401.09750.pdf). Kai Yang, Jian Tao, **Jiafei Lyu**, Xiu Li. *International Conference on Machine Learning (ICML)*, 2024.
 - [PEARL: Zero-shot Cross-task Preference Alignment and Robust Reward Learning for Robotic Manipulation](https://openreview.net/forum?id=0urN0PnNDj). Runze Liu, Yali Du, Fengshuo Bai, **Jiafei Lyu**, Xiu Li. *International Conference on Machine Learning (ICML)*, 2024.
