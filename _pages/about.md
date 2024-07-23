@@ -21,7 +21,6 @@ Publications
 **Preprints**
 
 - [World Models with Hints of Large Language Models for Goal Achieving](https://arxiv.org/pdf/2406.07381). Zeyuan Liu, Ziyu Huan, Xiyao Wang, **Jiafei Lyu**, Jian Tao, Xiu Li, Furong Huang, Huazhe Xu.
-- [Understanding What Affects Generalization Gap in Visual Reinforcement Learning: Theory and Empirical Evidence](https://arxiv.org/pdf/2402.02701). **Jiafei Lyu**, Le Wan, Xiu Li and Zongqing Lu.
 - [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
 
 
@@ -44,6 +43,7 @@ Publications
 
 **Journal Papers**
 
+- [Understanding What Affects Generalization Gap in Visual Reinforcement Learning: Theory and Empirical Evidence](https://arxiv.org/pdf/2402.02701). **Jiafei Lyu**, Le Wan, Xiu Li and Zongqing Lu. *Journal of Artificial Intelligence Research*, 2024 (IF=4.5)
 - [A Two-stage Reinforcement Learning-based Approach for Multi-entity Task Allocation](https://arxiv.org/pdf/2407.00496). Aicheng Gong, Kai Yang, **Jiafei Lyu**, Xiu Li. *Engineering Applications of Artificial Intelligence*, 2024 (IF=7.5)
 - [Off-Policy RL Algorithms Can be Sample-Efficient for Continuous Control via Sample Multiple Reuse](https://arxiv.org/pdf/2305.18443). **Jiafei Lyu**, Le Wan, Zongqing Lu, Xiu Li. *Information Sciences*, 2024. (IF=8.1)
 - [Value Activation for Bias Alleviation: Generalized-activated Deep Double Deterministic Policy Gradients](https://arxiv.org/pdf/2112.11216). **Jiafei Lyu**<sup>\*</sup>, Yu Yang<sup>\*</sup>, Jiangpeng Yan, Xiu Li. *Neurocomputing*, 2023. (IF=6.1)
