@@ -70,8 +70,10 @@ Honors
 - 2018.10 Academic Excellence Award of Tsinghua University
 - 2021.10 Outstanding Scholarship of Tsinghua University
 - 2022.10 Outstanding Scholarship of Tsinghua University
+- 2022.08 Top 10\% Reviewer for ICML 2022
 - 2023.07 Recognition Award of 2022 Tencent Rhino-Bird Research Elite Program
 - 2023.10 Outstanding Scholarship of Tsinghua University
+- 2024.06 **Best Reviewer Award** of ICML 2024
 
 Educations
 ==============
