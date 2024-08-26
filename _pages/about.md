@@ -20,6 +20,7 @@ Publications
 ============
 **Preprints**
 
+- [SUMO: Search-Based Uncertainty Estimation for Model-Based Offline Reinforcement Learning](https://arxiv.org/pdf/2408.12970). Zhongjian Qiao, **Jiafei Lyu**, Kechen Jiao, Qi Liu, Xiu Li.
 - [World Models with Hints of Large Language Models for Goal Achieving](https://arxiv.org/pdf/2406.07381). Zeyuan Liu, Ziyu Huan, Xiyao Wang, **Jiafei Lyu**, Jian Tao, Xiu Li, Furong Huang, Huazhe Xu.
 - [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
 
