@@ -44,6 +44,7 @@ Publications
 
 **Journal Papers**
 
+- Enhancing Visual Reinforcement Learning with State-Action Representation. Mengbei Yan<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Xiu Li. *Knowledge-Based Systems*, 2024 (IF=7.1)
 - [Understanding What Affects Generalization Gap in Visual Reinforcement Learning: Theory and Empirical Evidence](https://arxiv.org/pdf/2402.02701). **Jiafei Lyu**, Le Wan, Xiu Li and Zongqing Lu. *Journal of Artificial Intelligence Research*, 2024 (IF=4.5)
 - [A Two-stage Reinforcement Learning-based Approach for Multi-entity Task Allocation](https://arxiv.org/pdf/2407.00496). Aicheng Gong, Kai Yang, **Jiafei Lyu**, Xiu Li. *Engineering Applications of Artificial Intelligence*, 2024 (IF=7.5)
 - [Off-Policy RL Algorithms Can be Sample-Efficient for Continuous Control via Sample Multiple Reuse](https://arxiv.org/pdf/2305.18443). **Jiafei Lyu**, Le Wan, Zongqing Lu, Xiu Li. *Information Sciences*, 2024. (IF=8.1)
@@ -60,10 +61,10 @@ Collaborators
 ======
 
 - [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en): Professor, Tsinghua Shenzhen International Graduate School, Tsinghua University
-- [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en): BOYA Assistant Professor, School of Computer Science, Peking University
-- [Xiaoteng Ma](https://scholar.google.com/citations?user=CeDFnNMAAAAJ&hl=en): Ph.D. student, Department of Automation, Tsinghua University
+- [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en): BOYA Associate Professor, School of Computer Science, Peking University
+- [Xiaoteng Ma](https://scholar.google.com/citations?user=CeDFnNMAAAAJ&hl=en): Postdoc student, Department of Automation, Tsinghua University
 - [Jiangpeng Yan](https://scholar.google.com/citations?user=qZXFEbMAAAAJ&hl=en): Top minds, Huawei (Ph.D. alumni of Department of Automation, Tsinghua University)
-- [Rui Yang](https://scholar.google.com/citations?user=QHSUy3MAAAAJ&hl=en): Ph.D. Student, Department of Computer Science and Engineering (CSE), Hong Kong University of Science and Technology.
+- [Rui Yang](https://scholar.google.com/citations?user=QHSUy3MAAAAJ&hl=en): Ph.D. Student at University of Illinois Urbana-Champaign。
 
 Honors
 ===============
