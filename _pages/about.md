@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year Ph.D. student at Tsinghua Shenzhen International Graduate School, Tsinghua University supervised by Prof. [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en). I am now working as a group leader of Reinforcement Learning Group of Intelligent Computing Lab (ICLAB). I receive my bachelor’s degree from the Department of Engineering Physics, Tsinghua University in 2020.
+I am currently a final-year Ph.D. student at Tsinghua Shenzhen International Graduate School, Tsinghua University supervised by Prof. [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en). I am now working as a group leader of Reinforcement Learning Group of Intelligent Computing Lab (ICLAB). I receive my bachelor’s degree from the Department of Engineering Physics, Tsinghua University in 2020.
+
+**I am now on the job market, please feel free to reach out!**
 
 I am fortunate to work closely with Prof. [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en) from Peking University. I am now an intern student at Game AI Research Center, Tencent IEG (Interactive Entertainment Group), supervised by Mr. Le Wan and Mr. Jingwen Yang. Before that, I was an intern student at Pengcheng Lab (PCL) supervised by Prof. [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en).
 
 My research interests lie in efficient decision-making with deep Reinforcement Learning, including offline RL, sample-efficient general online model-free RL, and model-based RL. Meanwhile, I am interested in deploying RL algorithms in real-world applications, such as robotics, traffic signal control, etc.
 
 Please feel free to drop me an e-mail if you are interested in collaborating with me. lvjf20[AT]mails.tsinghua.edu.cn
+
 
 Publications
 ============
@@ -44,7 +47,7 @@ Publications
 
 **Journal Papers**
 
-- Enhancing Visual Reinforcement Learning with State-Action Representation. Mengbei Yan<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Xiu Li. *Knowledge-Based Systems*, 2024 (IF=7.1)
+- [Enhancing Visual Reinforcement Learning with State-Action Representation](https://www.sciencedirect.com/science/article/abs/pii/S0950705124011213?via%3Dihub). Mengbei Yan<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Xiu Li. *Knowledge-Based Systems*, 2024 (IF=7.1)
 - [Understanding What Affects Generalization Gap in Visual Reinforcement Learning: Theory and Empirical Evidence](https://arxiv.org/pdf/2402.02701). **Jiafei Lyu**, Le Wan, Xiu Li and Zongqing Lu. *Journal of Artificial Intelligence Research*, 2024 (IF=4.5)
 - [A Two-stage Reinforcement Learning-based Approach for Multi-entity Task Allocation](https://arxiv.org/pdf/2407.00496). Aicheng Gong, Kai Yang, **Jiafei Lyu**, Xiu Li. *Engineering Applications of Artificial Intelligence*, 2024 (IF=7.5)
 - [Off-Policy RL Algorithms Can be Sample-Efficient for Continuous Control via Sample Multiple Reuse](https://arxiv.org/pdf/2305.18443). **Jiafei Lyu**, Le Wan, Zongqing Lu, Xiu Li. *Information Sciences*, 2024. (IF=8.1)
