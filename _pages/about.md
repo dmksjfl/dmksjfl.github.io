@@ -80,6 +80,7 @@ Honors
 - 2023.07 Recognition Award of 2022 Tencent Rhino-Bird Research Elite Program
 - 2023.10 Outstanding Scholarship of Tsinghua University
 - 2024.06 **Best Reviewer Award** of ICML 2024
+- 2024.10 **National Scholarship** of Tsinghua University
 
 Educations
 ==============
