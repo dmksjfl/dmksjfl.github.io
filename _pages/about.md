@@ -21,6 +21,7 @@ Publications
 ============
 **Preprints**
 
+- [A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning](https://arxiv.org/pdf/2410.14660). <br> Shengjie Sun, Runze Liu, **Jiafei Lyu**, Jingwen Yang, Liangpeng Zhang, Xiu Li
 - [SUMO: Search-Based Uncertainty Estimation for Model-Based Offline Reinforcement Learning](https://arxiv.org/pdf/2408.12970). <br> Zhongjian Qiao, **Jiafei Lyu**, Kechen Jiao, Qi Liu, Xiu Li.
 - [World Models with Hints of Large Language Models for Goal Achieving](https://arxiv.org/pdf/2406.07381). <br> Zeyuan Liu, Ziyu Huan, Xiyao Wang, **Jiafei Lyu**, Jian Tao, Xiu Li, Furong Huang, Huazhe Xu.
 - [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). <br> Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
@@ -28,9 +29,9 @@ Publications
 
 **Conference Papers**
 
-- ODRL: A Benchmark for Off-Dynamics Reinforcement Learning. <br> **Jiafei Lyu**, Kang Xu, Jiacheng Xu, Mengbei Yan, Jing-Wen Yang, Zongzhang Zhang, Chenjia Bai, Zongqing Lu, Xiu Li. <br> *Advances in Neural Information Processing Systems (**NeurIPS**)* (Dataset and Benchmark Track), 2024.
+- ODRL: A Benchmark for Off-Dynamics Reinforcement Learning. <br> **Jiafei Lyu**, Kang Xu, Jiacheng Xu, Mengbei Yan, Jingwen Yang, Zongzhang Zhang, Chenjia Bai, Zongqing Lu, Xiu Li. <br> *Advances in Neural Information Processing Systems (**NeurIPS**)* (Dataset and Benchmark Track), 2024.
 - [Mind the Model, Not the Agent: The Primacy Bias in Model-based RL](https://arxiv.org/pdf/2310.15017). <br> Zhongjian Qiao, **Jiafei Lyu**, Xiu Li. <br> *European Conference on Artificial Intelligence (**ECAI**)*, 2024.
-- [Cross-Domain Policy Adaptation by Capturing Representation Mismatch](https://arxiv.org/pdf/2405.15369). <br> **Jiafei Lyu**, Chenjia Bai, Jing-Wen Yang, Xiu Li, Zongqing Lu. <br> *International Conference on Machine Learning (**ICML**)*, 2024.
+- [Cross-Domain Policy Adaptation by Capturing Representation Mismatch](https://arxiv.org/pdf/2405.15369). <br> **Jiafei Lyu**, Chenjia Bai, Jingwen Yang, Xiu Li, Zongqing Lu. <br> *International Conference on Machine Learning (**ICML**)*, 2024.
 - [Exploration and Anti-Exploration with Distributional Random Network Distillation](https://arxiv.org/pdf/2401.09750.pdf). <br> Kai Yang, Jian Tao, **Jiafei Lyu**, Xiu Li. <br> *International Conference on Machine Learning (**ICML**)*, 2024.
 - [PEARL: Zero-shot Cross-task Preference Alignment and Robust Reward Learning for Robotic Manipulation](https://openreview.net/forum?id=0urN0PnNDj). <br> Runze Liu, Yali Du, Fengshuo Bai, **Jiafei Lyu**, Xiu Li. <br> *International Conference on Machine Learning (**ICML**)*, 2024.
 - [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](https://arxiv.org/pdf/2311.13231). <br> Kai Yang, Jian Tao, **Jiafei Lyu**, Chunjiang Ge, Jiaxin Chen, Qimai Li, Weihan Shen, Xiaolong Zhu, Xiu Li. <br> *IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**)*, 2024
