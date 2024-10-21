@@ -114,7 +114,7 @@ Services
 ===============
 
 - Conference Reviewer: ICML (2022, 2023, 2024), NeurIPS (2022, 2023, 2024), AAAI (2022, 2023, 2024, 2025), ECAI (2023), ICLR (2024, 2025), RLC (2024), AAMAS (2025), AISTATS (2025)
-- Journal Reviewer: TMLR, TAI, CAAI, TNNLS
+- Journal Reviewer: TMLR, TAI, CAAI, TNNLS, RA-L
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=H0wdq5Yt_5DevaMQDScKGgo6jqadE8y4Cjc-Wts5J_Q&cl=ffffff&w=a"></script>
