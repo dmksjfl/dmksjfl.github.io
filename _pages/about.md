@@ -29,7 +29,7 @@ Publications
 
 **Conference Papers**
 
-- ODRL: A Benchmark for Off-Dynamics Reinforcement Learning. <br> **Jiafei Lyu**, Kang Xu, Jiacheng Xu, Mengbei Yan, Jingwen Yang, Zongzhang Zhang, Chenjia Bai, Zongqing Lu, Xiu Li. <br> *Advances in Neural Information Processing Systems (**NeurIPS**)* (Dataset and Benchmark Track), 2024.
+- [ODRL: A Benchmark for Off-Dynamics Reinforcement Learning](https://arxiv.org/pdf/2410.20750). <br> **Jiafei Lyu**, Kang Xu, Jiacheng Xu, Mengbei Yan, Jingwen Yang, Zongzhang Zhang, Chenjia Bai, Zongqing Lu, Xiu Li. <br> *Advances in Neural Information Processing Systems (**NeurIPS**)* (Dataset and Benchmark Track), 2024.
 - [Mind the Model, Not the Agent: The Primacy Bias in Model-based RL](https://arxiv.org/pdf/2310.15017). <br> Zhongjian Qiao, **Jiafei Lyu**, Xiu Li. <br> *European Conference on Artificial Intelligence (**ECAI**)*, 2024.
 - [Cross-Domain Policy Adaptation by Capturing Representation Mismatch](https://arxiv.org/pdf/2405.15369). <br> **Jiafei Lyu**, Chenjia Bai, Jingwen Yang, Xiu Li, Zongqing Lu. <br> *International Conference on Machine Learning (**ICML**)*, 2024.
 - [Exploration and Anti-Exploration with Distributional Random Network Distillation](https://arxiv.org/pdf/2401.09750.pdf). <br> Kai Yang, Jian Tao, **Jiafei Lyu**, Xiu Li. <br> *International Conference on Machine Learning (**ICML**)*, 2024.
