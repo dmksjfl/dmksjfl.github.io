@@ -28,6 +28,8 @@ Publications
 
 **Conference Papers**
 
+- Leveraging Score-based Models for Generating Penalization in Model-based Offline Reinforcement Learning. <br> Zeyuan Liu, Zhirui Fang, **Jiafei Lyu**, Xiu Li. <br> *International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)*, 2025. <font color='red'>(Oral).
+- CDSA: Conservative Denoising Score-based Algorithm for Offline Reinforcement Learning. <br> Zeyuan Liu, Yang Kai, **Jiafei Lyu**, Xiu Li. <br> *International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)*, 2025 (Extended Abstract).
 - Novelty-Guided Data Reuse for Efficient and Diversified Multi-Agent Reinforcement Learning. <br> Yangkun Chen, Kai Yang, Jian Tao, **Jiafei Lyu**. <br> *AAAI Conference on Artificial Intelligence*, (**AAAI**), 2025.
 - [SUMO: Search-Based Uncertainty Estimation for Model-Based Offline Reinforcement Learning](https://arxiv.org/pdf/2408.12970). <br> Zhongjian Qiao, **Jiafei Lyu**, Kechen Jiao, Qi Liu, Xiu Li. <br> *AAAI Conference on Artificial Intelligence*, (**AAAI**), 2025.
 - [ODRL: A Benchmark for Off-Dynamics Reinforcement Learning](https://arxiv.org/pdf/2410.20750). <br> **Jiafei Lyu**, Kang Xu, Jiacheng Xu, Mengbei Yan, Jingwen Yang, Zongzhang Zhang, Chenjia Bai, Zongqing Lu, Xiu Li. <br> *Advances in Neural Information Processing Systems (**NeurIPS**)* (Dataset and Benchmark Track), 2024.
@@ -81,6 +83,7 @@ Honors
 - 2023.10 Outstanding Scholarship of Tsinghua University
 - 2024.06 **Best Reviewer Award** of ICML 2024
 - 2024.10 **National Scholarship** of Tsinghua University
+- 2024.11 Academic Star (学术达人) Award 1st prize of Tsinghua SIGS
 
 Educations
 ==============
