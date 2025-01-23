@@ -22,12 +22,13 @@ Publications
 **Preprints**
 
 - [A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning](https://arxiv.org/pdf/2410.14660). <br> Shengjie Sun, Runze Liu, **Jiafei Lyu**, Jingwen Yang, Liangpeng Zhang, Xiu Li
-- [World Models with Hints of Large Language Models for Goal Achieving](https://arxiv.org/pdf/2406.07381). <br> Zeyuan Liu, Ziyu Huan, Xiyao Wang, **Jiafei Lyu**, Jian Tao, Xiu Li, Furong Huang, Huazhe Xu.
 - [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). <br> Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
 
 
 **Conference Papers**
 
+- Cross-Domain Offline Policy Adaptation with Optimal Transport and Dataset Constraint. <br> **Jiafei Lyu**, Mengbei Yan, Zhongjian Qiao, Runze Liu, Xiaoteng Ma, Deheng Ye, Jingwen Yang, Zongqing Lu, Xiu Li. <br> *International Conference on Learning Representations (**ICLR**)*, 2025.
+- [World Models with Hints of Large Language Models for Goal Achieving](https://arxiv.org/pdf/2406.07381). <br> Zeyuan Liu, Ziyu Huan, Xiyao Wang, **Jiafei Lyu**, Jian Tao, Xiu Li, Furong Huang, Huazhe Xu. <br> *Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics Albuquerque (NAACL)*, 2025.
 - Leveraging Score-based Models for Generating Penalization in Model-based Offline Reinforcement Learning. <br> Zeyuan Liu, Zhirui Fang, **Jiafei Lyu**, Xiu Li. <br> *International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)*, 2025. <font color='red'>(Oral).
 - CDSA: Conservative Denoising Score-based Algorithm for Offline Reinforcement Learning. <br> Zeyuan Liu, Yang Kai, **Jiafei Lyu**, Xiu Li. <br> *International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)*, 2025 (Extended Abstract).
 - [Novelty-Guided Data Reuse for Efficient and Diversified Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2412.15517). <br> Yangkun Chen, Kai Yang, Jian Tao, **Jiafei Lyu**. <br> *AAAI Conference on Artificial Intelligence*, (**AAAI**), 2025.
