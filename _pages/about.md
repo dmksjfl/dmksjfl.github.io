@@ -97,7 +97,7 @@ Educations
 Internships
 ==============
 
-- **Tencent IEG, Game AI Research Center (2023.10 - present)**
+- **Tencent IEG, Game AI Research Center (2023.10 - 2025.01)**
 
     Research on offline RL, transfer RL
 
