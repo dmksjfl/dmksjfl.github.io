@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a final-year Ph.D. student at Tsinghua Shenzhen International Graduate School, Tsinghua University supervised by Prof. [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en). I am now working as a group leader of Reinforcement Learning Group of Intelligent Computing Lab (ICLAB). I receive my bachelor’s degree from the Department of Engineering Physics, Tsinghua University in 2020.
 
-I am fortunate to work closely with Prof. [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en) from Peking University. I am now an intern student at Game AI Research Center, Tencent IEG (Interactive Entertainment Group), supervised by Mr. Le Wan and Mr. Jingwen Yang. Before that, I was an intern student at Pengcheng Lab (PCL) supervised by Prof. [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en).
+I am fortunate to work closely with Prof. [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en) from Peking University. I was previously an intern student at Game AI Research Center, Tencent IEG (Interactive Entertainment Group), supervised by Mr. Le Wan and Mr. Jingwen Yang. Before that, I was an intern student at Pengcheng Lab (PCL) supervised by Prof. [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en).
 
 My research interests lie in efficient decision-making with deep Reinforcement Learning, including offline RL, sample-efficient general online model-free RL, and model-based RL. Meanwhile, I am interested in deploying RL algorithms in real-world applications, such as robotics, large language models, etc.
 
@@ -23,11 +23,12 @@ Publications
 
 - [A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning](https://arxiv.org/pdf/2410.14660). <br> Shengjie Sun, Runze Liu, **Jiafei Lyu**, Jingwen Yang, Liangpeng Zhang, Xiu Li
 - [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). <br> Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
+- [GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning](https://arxiv.org/abs/2504.00891). <br> Jian Zhao, Runze Liu, Kaiyan Zhang, Zhimu Zhou, Junqi Gao, Dong Li, **Jiafei Lyu**, Zhouyi Qian, Biqing Qi, Xiu Li, Bowen Zhou.
 
 
 **Conference Papers**
 
-- Cross-Domain Offline Policy Adaptation with Optimal Transport and Dataset Constraint. <br> **Jiafei Lyu**, Mengbei Yan, Zhongjian Qiao, Runze Liu, Xiaoteng Ma, Deheng Ye, Jingwen Yang, Zongqing Lu, Xiu Li. <br> *International Conference on Learning Representations (**ICLR**)*, 2025.
+- [Cross-Domain Offline Policy Adaptation with Optimal Transport and Dataset Constraint](https://openreview.net/forum?id=LRrbD8EZJl). <br> **Jiafei Lyu**, Mengbei Yan, Zhongjian Qiao, Runze Liu, Xiaoteng Ma, Deheng Ye, Jingwen Yang, Zongqing Lu, Xiu Li. <br> *International Conference on Learning Representations (**ICLR**)*, 2025.
 - [World Models with Hints of Large Language Models for Goal Achieving](https://arxiv.org/pdf/2406.07381). <br> Zeyuan Liu, Ziyu Huan, Xiyao Wang, **Jiafei Lyu**, Jian Tao, Xiu Li, Furong Huang, Huazhe Xu. <br> *Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics Albuquerque (NAACL)*, 2025.
 - Leveraging Score-based Models for Generating Penalization in Model-based Offline Reinforcement Learning. <br> Zeyuan Liu, Zhirui Fang, **Jiafei Lyu**, Xiu Li. <br> *International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)*, 2025. <font color='red'>(Oral).
 - CDSA: Conservative Denoising Score-based Algorithm for Offline Reinforcement Learning. <br> Zeyuan Liu, Yang Kai, **Jiafei Lyu**, Xiu Li. <br> *International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)*, 2025 (Extended Abstract).
