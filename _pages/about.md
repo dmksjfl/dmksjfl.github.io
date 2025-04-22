@@ -86,6 +86,7 @@ Honors
 - 2024.06 **Best Reviewer Award** of ICML 2024
 - 2024.10 **National Scholarship** of Tsinghua University
 - 2024.11 Academic Star (学术达人) Award 1st prize of Tsinghua SIGS
+- 2025.04 [**Best Reviewer Award**](https://aistats.org/aistats2025/awards.html) of AISTATS 2025
 
 Educations
 ==============
