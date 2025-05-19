@@ -12,9 +12,7 @@ I am currently a final-year Ph.D. student at Tsinghua Shenzhen International Gra
 
 I am fortunate to work closely with Prof. [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en) from Peking University. I was previously an intern student at Game AI Research Center, Tencent IEG (Interactive Entertainment Group), supervised by Mr. Le Wan and Mr. Jingwen Yang. Before that, I was an intern student at Pengcheng Lab (PCL) supervised by Prof. [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en).
 
-My research interests lie in efficient decision-making with deep Reinforcement Learning, including offline RL, sample-efficient general online model-free RL, and model-based RL. Meanwhile, I am interested in deploying RL algorithms in real-world applications, such as robotics, large language models, etc.
-
-Please feel free to drop me an e-mail if you are interested in collaborating with me. lvjf20[AT]mails.tsinghua.edu.cn
+My research interests lie in RLHF and efficient decision-making with deep Reinforcement Learning, including LLM post-training, exploration, offline RL, sample-efficient general online model-free RL, etc. Please note that my tsinghua e-mail would expire soon. If you want to contact me, or if you are interested in collaborating with me, please drop me an e-mail using my Gmail: dmksjfl[AT]gmail.com
 
 
 Publications
@@ -24,6 +22,7 @@ Publications
 - [A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning](https://arxiv.org/pdf/2410.14660). <br> Shengjie Sun, Runze Liu, **Jiafei Lyu**, Jingwen Yang, Liangpeng Zhang, Xiu Li
 - [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). <br> Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
 - [GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning](https://arxiv.org/abs/2504.00891). <br> Jian Zhao, Runze Liu, Kaiyan Zhang, Zhimu Zhou, Junqi Gao, Dong Li, **Jiafei Lyu**, Zhouyi Qian, Biqing Qi, Xiu Li, Bowen Zhou.
+- [Exploration by Random Distribution Distillation](https://arxiv.org/pdf/2505.11044). <br> Zhirui Fang, Kai Yang, Jian Tao, **Jiafei Lyu**, Lusong Li, Li Shen, Xiu Li.
 
 
 **Conference Papers**
