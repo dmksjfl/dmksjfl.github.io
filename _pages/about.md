@@ -19,7 +19,6 @@ Publications
 ============
 **Preprints**
 
-- [A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning](https://arxiv.org/pdf/2410.14660). <br> Shengjie Sun, Runze Liu, **Jiafei Lyu**, Jingwen Yang, Liangpeng Zhang, Xiu Li
 - [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). <br> Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
 - [GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning](https://arxiv.org/abs/2504.00891). <br> Jian Zhao, Runze Liu, Kaiyan Zhang, Zhimu Zhou, Junqi Gao, Dong Li, **Jiafei Lyu**, Zhouyi Qian, Biqing Qi, Xiu Li, Bowen Zhou.
 - [Exploration by Random Distribution Distillation](https://arxiv.org/pdf/2505.11044). <br> Zhirui Fang, Kai Yang, Jian Tao, **Jiafei Lyu**, Lusong Li, Li Shen, Xiu Li.
@@ -51,6 +50,7 @@ Publications
 
 **Journal Papers**
 
+- [A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning](https://arxiv.org/pdf/2410.14660). <br> Shengjie Sun, Runze Liu, **Jiafei Lyu**, Jingwen Yang, Liangpeng Zhang, Xiu Li. <br> *Knowledge-Based Systems*, 2025 (IF=7.1)
 - [Enhancing Visual Reinforcement Learning with State-Action Representation](https://www.sciencedirect.com/science/article/abs/pii/S0950705124011213?via%3Dihub). <br> Mengbei Yan<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Xiu Li. <br> *Knowledge-Based Systems*, 2024 (IF=7.1)
 - [Understanding What Affects Generalization Gap in Visual Reinforcement Learning: Theory and Empirical Evidence](https://arxiv.org/pdf/2402.02701). <br> **Jiafei Lyu**, Le Wan, Xiu Li and Zongqing Lu. <br> *Journal of Artificial Intelligence Research*, 2024 (IF=4.5)
 - [A Two-stage Reinforcement Learning-based Approach for Multi-entity Task Allocation](https://arxiv.org/pdf/2407.00496). <br> Aicheng Gong, Kai Yang, **Jiafei Lyu**, Xiu Li. <br> *Engineering Applications of Artificial Intelligence*, 2024 (IF=7.5)
@@ -86,7 +86,7 @@ Honors
 - 2024.10 **National Scholarship** of Tsinghua University
 - 2024.11 Academic Star (学术达人) Award 1st prize of Tsinghua SIGS
 - 2025.04 [**Best Reviewer Award**](https://aistats.org/aistats2025/awards.html) of AISTATS 2025
-- 2025.05 Tsinghua Outstanding Ph.D. Graduates (Top **4\%**, Rank **1st** in SIGS)
+- 2025.05 Tsinghua Outstanding Ph.D. Graduates (Top **4%**, Rank **1st** in SIGS)
 
 
 Educations
