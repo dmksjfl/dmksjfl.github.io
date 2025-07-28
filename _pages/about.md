@@ -29,7 +29,7 @@ Publications
 - [Cross-Domain Offline Policy Adaptation with Optimal Transport and Dataset Constraint](https://openreview.net/forum?id=LRrbD8EZJl). <br> **Jiafei Lyu**, Mengbei Yan, Zhongjian Qiao, Runze Liu, Xiaoteng Ma, Deheng Ye, Jingwen Yang, Zongqing Lu, Xiu Li. <br> *International Conference on Learning Representations (**ICLR**)*, 2025.
 - [World Models with Hints of Large Language Models for Goal Achieving](https://arxiv.org/pdf/2406.07381). <br> Zeyuan Liu, Ziyu Huan, Xiyao Wang, **Jiafei Lyu**, Jian Tao, Xiu Li, Furong Huang, Huazhe Xu. <br> *Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics Albuquerque (NAACL)*, 2025. <font color='red'>(Oral).
 - [Leveraging Score-based Models for Generating Penalization in Model-based Offline Reinforcement Learning](https://dl.acm.org/doi/abs/10.5555/3709347.3743772). <br> Zeyuan Liu, Zhirui Fang, **Jiafei Lyu**, Xiu Li. <br> *International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)*, 2025. <font color='red'>(Oral).
-- CDSA: Conservative Denoising Score-based Algorithm for Offline Reinforcement Learning. <br> Zeyuan Liu, Yang Kai, **Jiafei Lyu**, Xiu Li. <br> *International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)*, 2025 (Extended Abstract).
+- [CDSA: Conservative Denoising Score-based Algorithm for Offline Reinforcement Learning](https://dl.acm.org/doi/abs/10.5555/3709347.3743964). <br> Zeyuan Liu, Yang Kai, **Jiafei Lyu**, Xiu Li. <br> *International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)*, 2025 (Extended Abstract).
 - [Novelty-Guided Data Reuse for Efficient and Diversified Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2412.15517). <br> Yangkun Chen, Kai Yang, Jian Tao, **Jiafei Lyu**. <br> *AAAI Conference on Artificial Intelligence*, (**AAAI**), 2025.
 - [SUMO: Search-Based Uncertainty Estimation for Model-Based Offline Reinforcement Learning](https://arxiv.org/pdf/2408.12970). <br> Zhongjian Qiao, **Jiafei Lyu**, Kechen Jiao, Qi Liu, Xiu Li. <br> *AAAI Conference on Artificial Intelligence*, (**AAAI**), 2025.
 - [ODRL: A Benchmark for Off-Dynamics Reinforcement Learning](https://arxiv.org/pdf/2410.20750). <br> **Jiafei Lyu**, Kang Xu, Jiacheng Xu, Mengbei Yan, Jingwen Yang, Zongzhang Zhang, Chenjia Bai, Zongqing Lu, Xiu Li. <br> *Advances in Neural Information Processing Systems (**NeurIPS**)* (Dataset and Benchmark Track), 2024.
@@ -71,7 +71,8 @@ Collaborators
 - [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en): BOYA Associate Professor, School of Computer Science, Peking University
 - [Xiaoteng Ma](https://scholar.google.com/citations?user=CeDFnNMAAAAJ&hl=en): Postdoc student, Department of Automation, Tsinghua University
 - [Jiangpeng Yan](https://scholar.google.com/citations?user=qZXFEbMAAAAJ&hl=en): Top minds, Huawei (Ph.D. alumni of Department of Automation, Tsinghua University)
-- [Rui Yang](https://scholar.google.com/citations?user=QHSUy3MAAAAJ&hl=en): Ph.D. Student at University of Illinois Urbana-Champaign。
+- [Rui Yang](https://scholar.google.com/citations?user=QHSUy3MAAAAJ&hl=en): Ph.D. Student at University of Illinois Urbana-Champaign
+- [Deheng Ye](https://scholar.google.com/citations?user=jz5XKuQAAAAJ&hl=en&oi=ao): Director of AI, Tencent
 
 Honors
 ===============
@@ -92,7 +93,7 @@ Honors
 Educations
 ==============
 
-- 2020 - present, Ph.D., Tsinghua Shenzhen International Graduate School, Tsinghua University
+- 2020 - 2025, Ph.D., Tsinghua Shenzhen International Graduate School, Tsinghua University
 - 2017 - 2020, Minor in Statistics, Center for Statistical Science, Tsinghua University
 - 2016 - 2020, Bachelor, Department of Engineering Physics, Tsinghua University
 
