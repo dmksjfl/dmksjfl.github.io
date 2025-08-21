@@ -26,6 +26,7 @@ Publications
 
 **Conference Papers**
 
+- [VLP: Vision-Language Preference Learning for Embodied Manipulation](https://arxiv.org/pdf/2502.11918). <br> Runze Liu, Chenjia Bai, **Jiafei Lyu**, Shengjie Sun, Yali Du, Xiu Li. <br> *The 2025 Conference on Empirical Methods in Natural Language Processing* (**EMNLP**), 2025
 - [Cross-Domain Offline Policy Adaptation with Optimal Transport and Dataset Constraint](https://openreview.net/forum?id=LRrbD8EZJl). <br> **Jiafei Lyu**, Mengbei Yan, Zhongjian Qiao, Runze Liu, Xiaoteng Ma, Deheng Ye, Jingwen Yang, Zongqing Lu, Xiu Li. <br> *International Conference on Learning Representations (**ICLR**)*, 2025.
 - [World Models with Hints of Large Language Models for Goal Achieving](https://arxiv.org/pdf/2406.07381). <br> Zeyuan Liu, Ziyu Huan, Xiyao Wang, **Jiafei Lyu**, Jian Tao, Xiu Li, Furong Huang, Huazhe Xu. <br> *Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics Albuquerque (NAACL)*, 2025. <font color='red'>(Oral).
 - [Leveraging Score-based Models for Generating Penalization in Model-based Offline Reinforcement Learning](https://dl.acm.org/doi/abs/10.5555/3709347.3743772). <br> Zeyuan Liu, Zhirui Fang, **Jiafei Lyu**, Xiu Li. <br> *International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)*, 2025. <font color='red'>(Oral).
