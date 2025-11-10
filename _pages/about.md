@@ -20,12 +20,12 @@ Publications
 **Preprints**
 
 - [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). <br> Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
-- [GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning](https://arxiv.org/abs/2504.00891). <br> Jian Zhao, Runze Liu, Kaiyan Zhang, Zhimu Zhou, Junqi Gao, Dong Li, **Jiafei Lyu**, Zhouyi Qian, Biqing Qi, Xiu Li, Bowen Zhou.
 - [Exploration by Random Distribution Distillation](https://arxiv.org/pdf/2505.11044). <br> Zhirui Fang, Kai Yang, Jian Tao, **Jiafei Lyu**, Lusong Li, Li Shen, Xiu Li.
 
 
 **Conference Papers**
 
+- [GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning](https://arxiv.org/abs/2504.00891). <br> Jian Zhao, Runze Liu, Kaiyan Zhang, Zhimu Zhou, Junqi Gao, Dong Li, **Jiafei Lyu**, Zhouyi Qian, Biqing Qi, Xiu Li, Bowen Zhou. <br> *AAAI Conference on Artificial Intelligence*, (**AAAI**), 2026.
 - [ADG: Ambient Diffusion-Guided Dataset Recovery for Corruption-Robust Offline Reinforcement Learning](https://arxiv.org/pdf/2505.23871). <br> Zeyuan Liu, Zhihe Yang, Jiawei Xu, Rui Yang, **Jiafei Lyu**, Baoxiang Wang, Yunjian Xu, Xiu Li. <br> *Neural Information Processing Systems* (**NeurIPS**), 2025
 - [VLP: Vision-Language Preference Learning for Embodied Manipulation](https://arxiv.org/pdf/2502.11918). <br> Runze Liu, Chenjia Bai, **Jiafei Lyu**, Shengjie Sun, Yali Du, Xiu Li. <br> *The 2025 Conference on Empirical Methods in Natural Language Processing* (**EMNLP**), 2025
 - [Cross-Domain Offline Policy Adaptation with Optimal Transport and Dataset Constraint](https://openreview.net/forum?id=LRrbD8EZJl). <br> **Jiafei Lyu**, Mengbei Yan, Zhongjian Qiao, Runze Liu, Xiaoteng Ma, Deheng Ye, Jingwen Yang, Zongqing Lu, Xiu Li. <br> *International Conference on Learning Representations (**ICLR**)*, 2025.
