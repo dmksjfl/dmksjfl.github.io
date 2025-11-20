@@ -22,6 +22,7 @@ Publications
 - [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). <br> Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
 - [Exploration by Random Distribution Distillation](https://arxiv.org/pdf/2505.11044). <br> Zhirui Fang, Kai Yang, Jian Tao, **Jiafei Lyu**, Lusong Li, Li Shen, Xiu Li.
 - [PROF: An LLM-based Reward Code Preference Optimization Framework for Offline Imitation Learning](https://openreview.net/pdf?id=Gdpv6fBqrX). <br> Shengjie Sun, **Jiafei Lyu**, Runze Liu, Mengbei Yan, Bo Liu, Deheng Ye, Xiu Li.
+- [EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control](https://arxiv.org/pdf/2511.15248). <br> Kai Yang, Xin Xu, Yangkun Chen, Weijie Liu, **Jiafei Lyu**, Zichuan Lin, Deheng Ye, Saiyong Yang.
 
 
 **Conference Papers**
