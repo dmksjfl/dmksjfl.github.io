@@ -23,6 +23,8 @@ Publications
 - [Exploration by Random Distribution Distillation](https://arxiv.org/pdf/2505.11044). <br> Zhirui Fang, Kai Yang, Jian Tao, **Jiafei Lyu**, Lusong Li, Li Shen, Xiu Li.
 - [PROF: An LLM-based Reward Code Preference Optimization Framework for Offline Imitation Learning](https://openreview.net/pdf?id=Gdpv6fBqrX). <br> Shengjie Sun, **Jiafei Lyu**, Runze Liu, Mengbei Yan, Bo Liu, Deheng Ye, Xiu Li.
 - [EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control](https://arxiv.org/pdf/2511.15248). <br> Kai Yang, Xin Xu, Yangkun Chen, Weijie Liu, **Jiafei Lyu**, Zichuan Lin, Deheng Ye, Saiyong Yang.
+- [Dual-Robust Cross-Domain Offline Reinforcement Learning Against Dynamics Shifts](https://arxiv.org/pdf/2512.02486). <br> Zhongjian Qiao, Rui Yang, **Jiafei Lyu**, Xiu Li, Zhongxiang Dai, Zhuoran Yang, Siyang Gao, Shuang Qiu.
+- [Cross-Domain Offline Policy Adaptation with Dynamics- and Value-Aligned Data Filtering](https://arxiv.org/pdf/2512.02435). <br> Zhongjian Qiao, Rui Yang, **Jiafei Lyu**, Chenjia Bai, Xiu Li, Zhuoran Yang, Siyang Gao, Shuang Qiu
 
 
 **Conference Papers**
