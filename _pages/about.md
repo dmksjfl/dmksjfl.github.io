@@ -12,7 +12,7 @@ I am currently a senior researcher at Tencent. I obtained my Ph.D. at Tsinghua U
 
 I am fortunate to work closely with Prof. [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en) from Peking University. I was previously an intern student at Game AI Research Center, Tencent IEG (Interactive Entertainment Group), supervised by Mr. Le Wan and Mr. Jingwen Yang. Before that, I was an intern student at Pengcheng Lab (PCL) supervised by Prof. [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en).
 
-My research interests lie in RLHF and efficient decision-making with deep Reinforcement Learning, including LLM post-training, exploration, offline RL, sample-efficient general online model-free RL, etc. Please note that my tsinghua e-mail would expire soon. If you want to contact me, or if you are interested in collaborating with me, please drop me an e-mail using my Gmail: dmksjfl[AT]gmail.com
+My research interests lie in RLHF and efficient decision-making with deep Reinforcement Learning, including LLM post-training, exploration, offline RL, sample-efficient general online model-free RL, etc. Please note that my tsinghua e-mail has expired. If you want to contact me, or if you are interested in collaborating with me, please drop me an e-mail using my Gmail: dmksjfl[AT]gmail.com
 
 
 Publications
