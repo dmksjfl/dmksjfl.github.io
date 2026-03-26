@@ -26,6 +26,7 @@ Publications
 - [Cross-Domain Offline Policy Adaptation with Dynamics- and Value-Aligned Data Filtering](https://arxiv.org/pdf/2512.02435). <br> Zhongjian Qiao, Rui Yang, **Jiafei Lyu**, Chenjia Bai, Xiu Li, Zhuoran Yang, Siyang Gao, Shuang Qiu
 - [Cross-Domain Offline Policy Adaptation via Selective Transition Correction](https://arxiv.org/pdf/2602.05776). <br> Mengbei Yan, **Jiafei Lyu**, Shengjie Sun, Zhongjian Qiao, Jingwen Yang, Zichuan Lin, Deheng Ye, Xiu Li
 - [ProAct: Agentic Lookahead in Interactive Environments](https://arxiv.org/pdf/2602.05327) <br> Yangbin Yu, Mingyu Yang, Junyou Li, Yiming Gao, Feiyu Liu, Yijun Yang, Zichuan Lin, **Jiafei Lyu**, Yicheng Liu, Zhicong Lu, Deheng Ye, Jie Jiang
+- [UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://arxiv.org/pdf/2603.24533). <br> Zichuan Lin<sup>\*</sup>, Feiyu Liu<sup>\*</sup>, Yijun Yang<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Yiming Gao<sup>\*</sup>, Yicheng Liu<sup>\*</sup>, Zhicong Lu, Yangbin Yu, Mingyu Yang, Junyou Li, Deheng Ye, Jie Jiang
 
 
 **Conference Papers**
@@ -78,8 +79,8 @@ Collaborators
 
 - [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en): Professor, Tsinghua Shenzhen International Graduate School, Tsinghua University
 - [Zongqing Lu](https://scholar.google.com/citations?user=k3IFtTYAAAAJ&hl=en): BOYA Associate Professor, School of Computer Science, Peking University
-- [Xiaoteng Ma](https://scholar.google.com/citations?user=CeDFnNMAAAAJ&hl=en): Postdoc student, Department of Automation, Tsinghua University
-- [Jiangpeng Yan](https://scholar.google.com/citations?user=qZXFEbMAAAAJ&hl=en): Top minds, Huawei (Ph.D. alumni of Department of Automation, Tsinghua University)
+- [Xiaoteng Ma](https://scholar.google.com/citations?user=CeDFnNMAAAAJ&hl=en): Macaron AI
+- [Jiangpeng Yan](https://scholar.google.com/citations?user=qZXFEbMAAAAJ&hl=en): E Fund (Ph.D. alumni of Department of Automation, Tsinghua University)
 - [Rui Yang](https://scholar.google.com/citations?user=QHSUy3MAAAAJ&hl=en): Ph.D. Student at University of Illinois Urbana-Champaign
 - [Deheng Ye](https://scholar.google.com/citations?user=jz5XKuQAAAAJ&hl=en&oi=ao): Director of AI, Tencent
 
