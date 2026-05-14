@@ -100,6 +100,7 @@ Honors
 - 2024.11 Academic Star (学术达人) Award 1st prize of Tsinghua SIGS
 - 2025.04 [**Best Reviewer Award**](https://aistats.org/aistats2025/awards.html) of AISTATS 2025
 - 2025.05 Tsinghua Outstanding Ph.D. Graduates (Top **4%**, Rank **1st** in SIGS)
+- 2026.05 **Gold Reviewer** of ICML 2026
 
 
 Educations
