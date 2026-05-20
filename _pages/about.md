@@ -31,7 +31,7 @@ Publications
 
 **Conference Papers**
 
-- Debiased Model-based Representations for Sample-efficient Continuous Control. <br> **Jiafei Lyu**, Zichuan Lin, Scott Fujimoto, Kai Yang, Yangkun Chen, Saiyong Yang, Zongqing Lu, Deheng Ye. <br> *International Conference on Machine Learning (**ICML**)*, 2026.
+- [Debiased Model-based Representations for Sample-efficient Continuous Control](https://arxiv.org/pdf/2605.11711). <br> **Jiafei Lyu**, Zichuan Lin, Scott Fujimoto, Kai Yang, Yangkun Chen, Saiyong Yang, Zongqing Lu, Deheng Ye. <br> *International Conference on Machine Learning (**ICML**)*, 2026.
 - Unifying Value Alignment and Assignment in Cross-Domain Offline Reinforcement Learning with Heterogeneous Datasets. <br> Zhongjian Qiao, **Jiafei Lyu**, Chenjia Bai, Peisong Wang, Siyang Gao, Shuang Qiu. <br> *International Conference on Machine Learning (**ICML**)*, 2026.
 - [Dual-Robust Cross-Domain Offline Reinforcement Learning Against Dynamics Shifts](https://arxiv.org/pdf/2512.02486). <br> Zhongjian Qiao, Rui Yang, **Jiafei Lyu**, Xiu Li, Zhongxiang Dai, Zhuoran Yang, Siyang Gao, Shuang Qiu. <br> *International Conference on Learning Representations (**ICLR**)*, 2026.
 - [Model-based Offline RL via Robust Value-Aware Model Learning with Implicitly Differentiable Adaptive Weighting](https://openreview.net/pdf?id=yxx6XiXwx2). <br> Zhongjian Qiao, **Jiafei Lyu**, Boxiang Lyu, Yao Shu, Siyang Gao, Shuang Qiu. <br> *International Conference on Learning Representations (**ICLR**)*, 2026.
