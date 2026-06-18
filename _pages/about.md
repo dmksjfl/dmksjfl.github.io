@@ -25,12 +25,12 @@ Publications
 - [EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control](https://arxiv.org/pdf/2511.15248). <br> Kai Yang, Xin Xu, Yangkun Chen, Weijie Liu, **Jiafei Lyu**, Zichuan Lin, Deheng Ye, Saiyong Yang.
 - [Cross-Domain Offline Policy Adaptation with Dynamics- and Value-Aligned Data Filtering](https://arxiv.org/pdf/2512.02435). <br> Zhongjian Qiao, Rui Yang, **Jiafei Lyu**, Chenjia Bai, Xiu Li, Zhuoran Yang, Siyang Gao, Shuang Qiu
 - [Cross-Domain Offline Policy Adaptation via Selective Transition Correction](https://arxiv.org/pdf/2602.05776). <br> Mengbei Yan, **Jiafei Lyu**, Shengjie Sun, Zhongjian Qiao, Jingwen Yang, Zichuan Lin, Deheng Ye, Xiu Li
-- [ProAct: Agentic Lookahead in Interactive Environments](https://arxiv.org/pdf/2602.05327) <br> Yangbin Yu, Mingyu Yang, Junyou Li, Yiming Gao, Feiyu Liu, Yijun Yang, Zichuan Lin, **Jiafei Lyu**, Yicheng Liu, Zhicong Lu, Deheng Ye, Jie Jiang
 - [UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://arxiv.org/pdf/2603.24533). <br> Zichuan Lin<sup>\*</sup>, Feiyu Liu<sup>\*</sup>, Yijun Yang<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Yiming Gao<sup>\*</sup>, Yicheng Liu<sup>\*</sup>, Zhicong Lu, Yangbin Yu, Mingyu Yang, Junyou Li, Deheng Ye, Jie Jiang
 
 
 **Conference Papers**
 
+- [ProAct: Agentic Lookahead in Interactive Environments](https://arxiv.org/pdf/2602.05327) <br> Yangbin Yu, Mingyu Yang, Junyou Li, Yiming Gao, Feiyu Liu, Yijun Yang, Zichuan Lin, **Jiafei Lyu**, Yicheng Liu, Zhicong Lu, Deheng Ye, Jie Jiang. <br> *European Conference on Computer Vision (**ECCV**)*, 2026
 - [Debiased Model-based Representations for Sample-efficient Continuous Control](https://arxiv.org/pdf/2605.11711). <br> **Jiafei Lyu**, Zichuan Lin, Scott Fujimoto, Kai Yang, Yangkun Chen, Saiyong Yang, Zongqing Lu, Deheng Ye. <br> *International Conference on Machine Learning (**ICML**)*, 2026.
 - [Unifying Value Alignment and Assignment in Cross-Domain Offline Reinforcement Learning with Heterogeneous Datasets](https://arxiv.org/pdf/2605.24862). <br> Zhongjian Qiao, **Jiafei Lyu**, Chenjia Bai, Peisong Wang, Siyang Gao, Shuang Qiu. <br> *International Conference on Machine Learning (**ICML**)*, 2026.
 - [Dual-Robust Cross-Domain Offline Reinforcement Learning Against Dynamics Shifts](https://arxiv.org/pdf/2512.02486). <br> Zhongjian Qiao, Rui Yang, **Jiafei Lyu**, Xiu Li, Zhongxiang Dai, Zhuoran Yang, Siyang Gao, Shuang Qiu. <br> *International Conference on Learning Representations (**ICLR**)*, 2026.
@@ -62,7 +62,7 @@ Publications
 
 **Journal Papers**
 
-- [Temporal Difference Learning with Constrained Initial Representations](https://arxiv.org/pdf/2602.11800). <br> **Jiafei Lyu**, Jingwen Yang, Zhongjian Qiao, Runze Liu, Zeyuan Liu, Deheng Ye, Zongqing Lu, Xiu Li. <br> *Information Sciences*, 2024. (IF=8.1)
+- [Temporal Difference Learning with Constrained Initial Representations](https://arxiv.org/pdf/2602.11800). <br> **Jiafei Lyu**, Jingwen Yang, Zhongjian Qiao, Runze Liu, Zeyuan Liu, Deheng Ye, Zongqing Lu, Xiu Li. <br> *Information Sciences*, 2026. (IF=8.1)
 - [A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning](https://arxiv.org/pdf/2410.14660). <br> Shengjie Sun, Runze Liu, **Jiafei Lyu**, Jingwen Yang, Liangpeng Zhang, Xiu Li. <br> *Knowledge-Based Systems*, 2025 (IF=7.1)
 - [Enhancing Visual Reinforcement Learning with State-Action Representation](https://www.sciencedirect.com/science/article/abs/pii/S0950705124011213?via%3Dihub). <br> Mengbei Yan<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Xiu Li. <br> *Knowledge-Based Systems*, 2024 (IF=7.1)
 - [Understanding What Affects Generalization Gap in Visual Reinforcement Learning: Theory and Empirical Evidence](https://arxiv.org/pdf/2402.02701). <br> **Jiafei Lyu**, Le Wan, Xiu Li and Zongqing Lu. <br> *Journal of Artificial Intelligence Research*, 2024 (IF=4.5)
