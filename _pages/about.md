@@ -136,7 +136,8 @@ Teaching
 Services
 ===============
 
-- Conference Reviewer: ICML (2022-), NeurIPS (2022-), AAAI (2022-), ECAI (2023), ICLR (2024-), RLC (2024-), AAMAS (2025), AISTATS (2025-)
+- Conference AC: DAI (2026-)
+- Conference Reviewer: ICML (2022-), NeurIPS (2022-), AAAI (2022-2025), ECAI (2023), ICLR (2024-), RLC (2024-), AAMAS (2025), AISTATS (2025-)
 - Journal Reviewer: TMLR, TAI, CAAI, TNNLS, RA-L
 
 
