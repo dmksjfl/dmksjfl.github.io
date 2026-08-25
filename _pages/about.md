@@ -21,7 +21,6 @@ Publications
 
 - [Bias-reduced Multi-step Hindsight Experience Replay for Efficient Multi-goal Reinforcement Learning](https://arxiv.org/pdf/2102.12962). <br> Rui Yang, **Jiafei Lyu**, Yu Yang, Jiangpeng Yan, Feng Luo, Dijun Luo, Lanqing Li, Xiu Li.
 - [Exploration by Random Distribution Distillation](https://arxiv.org/pdf/2505.11044). <br> Zhirui Fang, Kai Yang, Jian Tao, **Jiafei Lyu**, Lusong Li, Li Shen, Xiu Li.
-- [PROF: An LLM-based Reward Code Preference Optimization Framework for Offline Imitation Learning](https://openreview.net/pdf?id=Gdpv6fBqrX). <br> Shengjie Sun, **Jiafei Lyu**, Runze Liu, Mengbei Yan, Bo Liu, Deheng Ye, Xiu Li.
 - [EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control](https://arxiv.org/pdf/2511.15248). <br> Kai Yang, Xin Xu, Yangkun Chen, Weijie Liu, **Jiafei Lyu**, Zichuan Lin, Deheng Ye, Saiyong Yang.
 - [Cross-Domain Offline Policy Adaptation with Dynamics- and Value-Aligned Data Filtering](https://arxiv.org/pdf/2512.02435). <br> Zhongjian Qiao, Rui Yang, **Jiafei Lyu**, Chenjia Bai, Xiu Li, Zhuoran Yang, Siyang Gao, Shuang Qiu
 - [UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://arxiv.org/pdf/2603.24533). <br> Zichuan Lin<sup>\*</sup>, Feiyu Liu<sup>\*</sup>, Yijun Yang<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Yiming Gao<sup>\*</sup>, Yicheng Liu<sup>\*</sup>, Zhicong Lu, Yangbin Yu, Mingyu Yang, Junyou Li, Deheng Ye, Jie Jiang
@@ -61,6 +60,7 @@ Publications
 
 **Journal Papers**
 
+- [PROF: An LLM-based Reward Code Preference Optimization Framework for Offline Imitation Learning](https://openreview.net/pdf?id=Gdpv6fBqrX). <br> Shengjie Sun, **Jiafei Lyu**, Runze Liu, Mengbei Yan, Bo Liu, Deheng Ye, Xiu Li. <br> *Journal of Artificial Intelligence Research*, 2026 (IF=4.5)
 - [Cross-Domain Offline Policy Adaptation via Selective Transition Correction](https://arxiv.org/pdf/2602.05776). <br> Mengbei Yan, **Jiafei Lyu**, Shengjie Sun, Zhongjian Qiao, Jingwen Yang, Zichuan Lin, Deheng Ye, Xiu Li. <br> *Transactions on Machine Learning Research*, 2026.
 - [Temporal Difference Learning with Constrained Initial Representations](https://arxiv.org/pdf/2602.11800). <br> **Jiafei Lyu**, Jingwen Yang, Zhongjian Qiao, Runze Liu, Zeyuan Liu, Deheng Ye, Zongqing Lu, Xiu Li. <br> *Information Sciences*, 2026. (IF=8.1)
 - [A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning](https://arxiv.org/pdf/2410.14660). <br> Shengjie Sun, Runze Liu, **Jiafei Lyu**, Jingwen Yang, Liangpeng Zhang, Xiu Li. <br> *Knowledge-Based Systems*, 2025 (IF=7.1)
