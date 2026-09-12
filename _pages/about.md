@@ -24,6 +24,7 @@ Publications
 - [EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control](https://arxiv.org/pdf/2511.15248). <br> Kai Yang, Xin Xu, Yangkun Chen, Weijie Liu, **Jiafei Lyu**, Zichuan Lin, Deheng Ye, Saiyong Yang.
 - [Cross-Domain Offline Policy Adaptation with Dynamics- and Value-Aligned Data Filtering](https://arxiv.org/pdf/2512.02435). <br> Zhongjian Qiao, Rui Yang, **Jiafei Lyu**, Chenjia Bai, Xiu Li, Zhuoran Yang, Siyang Gao, Shuang Qiu
 - [UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://arxiv.org/pdf/2603.24533). <br> Zichuan Lin<sup>\*</sup>, Feiyu Liu<sup>\*</sup>, Yijun Yang<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Yiming Gao<sup>\*</sup>, Yicheng Liu<sup>\*</sup>, Zhicong Lu, Yangbin Yu, Mingyu Yang, Junyou Li, Deheng Ye, Jie Jiang
+- [World Models for Embodied Intelligence: From Plausible to Controllable to Actionable](https://www.preprints.org/manuscript/202609.0894). <br> Nanjie Yao, Hao Wang, Chong Cheng, Zhikang Chen, Wenzhe Li, **Jiafei Lyu**, Li Shen, Peilin Zhao, Zongqing Lu, Gao Huang, Steven Hoi, Dacheng Tao, Deheng Ye
 
 
 **Conference Papers**
