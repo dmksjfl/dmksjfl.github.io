@@ -25,6 +25,7 @@ Publications
 - [Cross-Domain Offline Policy Adaptation with Dynamics- and Value-Aligned Data Filtering](https://arxiv.org/pdf/2512.02435). <br> Zhongjian Qiao, Rui Yang, **Jiafei Lyu**, Chenjia Bai, Xiu Li, Zhuoran Yang, Siyang Gao, Shuang Qiu
 - [UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://arxiv.org/pdf/2603.24533). <br> Zichuan Lin<sup>\*</sup>, Feiyu Liu<sup>\*</sup>, Yijun Yang<sup>\*</sup>, **Jiafei Lyu**<sup>\*</sup>, Yiming Gao<sup>\*</sup>, Yicheng Liu<sup>\*</sup>, Zhicong Lu, Yangbin Yu, Mingyu Yang, Junyou Li, Deheng Ye, Jie Jiang
 - [World Models for Embodied Intelligence: From Plausible to Controllable to Actionable](https://www.preprints.org/manuscript/202609.0894). <br> Nanjie Yao, Hao Wang, Chong Cheng, Zhikang Chen, Wenzhe Li, **Jiafei Lyu**, Li Shen, Peilin Zhao, Zongqing Lu, Gao Huang, Steven Hoi, Dacheng Tao, Deheng Ye
+- [Consolidating RLVR Capabilities Across Domains: A Deep Dive into Fusion Paradigms](https://arxiv.org/pdf/2608.27409). <br> Siye Wu, Kai Yang, Yuchen Cai, Xin Xu, Peng-Yuan Wang, Jiaxuan Wang, Jiashun Liu, **Jiafei Lyu**, Yangkun Chen, Saiyong Yang, Yanghua Xiao
 
 
 **Conference Papers**
