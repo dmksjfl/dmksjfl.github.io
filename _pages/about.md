@@ -30,6 +30,7 @@ Publications
 
 **Conference Papers**
 
+- DUDS: Dual-stage Data Selection for Efficient Reinforcement Learning with Verifiable Rewards. <br> Hongling Zheng, Li Shen, Zichuan Lin, **Jiafei Lyu**, Zhicong Lu, Shuhan Xu, Yong Luo, Deheng Ye, Dacheng Tao. <br> *Neural Information Processing Systems (**NeurIPS**)*, 2026
 - [ProAct: Agentic Lookahead in Interactive Environments](https://arxiv.org/pdf/2602.05327) <br> Yangbin Yu, Mingyu Yang, Junyou Li, Yiming Gao, Feiyu Liu, Yijun Yang, Zichuan Lin, **Jiafei Lyu**, Yicheng Liu, Zhicong Lu, Deheng Ye, Jie Jiang. <br> *European Conference on Computer Vision (**ECCV**)*, 2026
 - [Debiased Model-based Representations for Sample-efficient Continuous Control](https://arxiv.org/pdf/2605.11711). <br> **Jiafei Lyu**, Zichuan Lin, Scott Fujimoto, Kai Yang, Yangkun Chen, Saiyong Yang, Zongqing Lu, Deheng Ye. <br> *International Conference on Machine Learning (**ICML**)*, 2026.
 - [Unifying Value Alignment and Assignment in Cross-Domain Offline Reinforcement Learning with Heterogeneous Datasets](https://arxiv.org/pdf/2605.24862). <br> Zhongjian Qiao, **Jiafei Lyu**, Chenjia Bai, Peisong Wang, Siyang Gao, Shuang Qiu. <br> *International Conference on Machine Learning (**ICML**)*, 2026.
