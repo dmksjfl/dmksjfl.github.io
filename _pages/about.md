@@ -119,7 +119,7 @@ Internships
 
 - **Tencent IEG, Game AI Research Center (2023.10 - 2025.01)**
 
-    Research on offline RL, transfer RL
+    Researched on offline RL, transfer RL, and LLM
 
 - **Tencent IEG, Game AI Research Center (2022.06 - 2023.10)**
 
